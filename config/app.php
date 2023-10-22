@@ -159,7 +159,11 @@ return [
         /*
          * Package Service Providers...
          */
+<<<<<<< HEAD
+        App\Providers\FortifyServiceProvider::class,
+=======
 
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
         /*
          * Application Service Providers...
          */

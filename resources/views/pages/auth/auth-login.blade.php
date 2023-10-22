@@ -4,8 +4,12 @@
 
 @push('style')
     <!-- CSS Libraries -->
+<<<<<<< HEAD
+    <link rel="stylesheet" href="{{ asset('library/bootstrap-social/bootstrap-social.css') }}">
+=======
     <link rel="stylesheet"
         href="{{ asset('library/bootstrap-social/bootstrap-social.css') }}">
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
 @endpush
 
 @section('main')
@@ -15,6 +19,21 @@
         </div>
 
         <div class="card-body">
+<<<<<<< HEAD
+            <form method="POST" action="{{ route('login') }}" class="needs-validation" novalidate="">
+                @csrf
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    <input id="email" type="email"
+                        class="form-control @error('email') is-invalid
+                    @enderror" name="email"
+                        tabindex="1" autofocus>
+                    @error('email')
+                        <div class="invalid-feedback">
+                            {{ $message }}
+                        </div>
+                    @enderror
+=======
             <form method="POST"
                 action="#"
                 class="needs-validation"
@@ -31,19 +50,42 @@
                     <div class="invalid-feedback">
                         Please fill in your email
                     </div>
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                 </div>
 
                 <div class="form-group">
                     <div class="d-block">
+<<<<<<< HEAD
+                        <label for="password" class="control-label">Password</label>
+                        <div class="float-right">
+                            <a href="auth-forgot-password.html" class="text-small">
+=======
                         <label for="password"
                             class="control-label">Password</label>
                         <div class="float-right">
                             <a href="auth-forgot-password.html"
                                 class="text-small">
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                 Forgot Password?
                             </a>
                         </div>
                     </div>
+<<<<<<< HEAD
+                    <input id="password" type="password"
+                        class="form-control @error('password')
+                        is-invalid
+                    @enderror"
+                        name="password" tabindex="2">
+                    @error('password')
+                        <div class="invalid-feedback">
+                            {{ $message }}
+                        </div>
+                    @enderror
+                </div>
+
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary btn-lg btn-block" tabindex="4">
+=======
                     <input id="password"
                         type="password"
                         class="form-control"
@@ -71,10 +113,14 @@
                     <button type="submit"
                         class="btn btn-primary btn-lg btn-block"
                         tabindex="4">
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                         Login
                     </button>
                 </div>
             </form>
+<<<<<<< HEAD
+
+=======
             <div class="mt-4 mb-3 text-center">
                 <div class="text-job text-muted">Login With Social</div>
             </div>
@@ -90,11 +136,16 @@
                     </a>
                 </div>
             </div>
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
 
         </div>
     </div>
     <div class="text-muted mt-5 text-center">
+<<<<<<< HEAD
+        Don't have an account? <a href="{{ route('register') }}">Create One</a>
+=======
         Don't have an account? <a href="{{route('register')}}">Create One</a>
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     </div>
 @endsection
 

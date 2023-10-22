@@ -4,8 +4,12 @@
 
 @push('style')
     <!-- CSS Libraries -->
+<<<<<<< HEAD
+    <link rel="stylesheet" href="{{ asset('library/selectric/public/selectric.css') }}">
+=======
     <link rel="stylesheet"
         href="{{ asset('library/selectric/public/selectric.css') }}">
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
 @endpush
 
 @section('main')
@@ -16,6 +20,24 @@
 
         <div class="card-body">
             <form method="POST">
+<<<<<<< HEAD
+                @csrf
+                <div class="row">
+                    <div class="form-group col-12">
+                        <label for="name">Name</label>
+                        <input id="name" type="text"
+                            class="form-control @error('name')
+                            is-invalid
+                        @enderror"
+                            name="name" autofocus>
+                        @error('name')
+                            <div class="invalid-feedback">
+                                {{ $message }}
+                            </div>
+                        @enderror
+                    </div>
+
+=======
                 <div class="row">
                     <div class="form-group col-6">
                         <label for="frist_name">First Name</label>
@@ -32,10 +54,54 @@
                             class="form-control"
                             name="last_name">
                     </div>
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                 </div>
 
                 <div class="form-group">
                     <label for="email">Email</label>
+<<<<<<< HEAD
+                    <input id="email" type="email"
+                        class="form-control @error('email')
+                        is-invalid
+                    @enderror"
+                        name="email">
+                    @error('email')
+                        <div class="invalid-feedback">
+                            {{ $message }}
+                        </div>
+                    @enderror
+                </div>
+
+                <div class="row">
+                    <div class="form-group col-12">
+                        <label for="password" class="d-block">Password</label>
+                        <input id="password" type="password"
+                            class="form-control @error('password')
+                            is-invalid
+                        @enderror"
+                            name="password">
+                        @error('password')
+                            <div class="invalid-feedback">
+                                {{ $message }}
+                            </div>
+                        @enderror
+                    </div>
+
+                </div>
+
+                <div class="row">
+
+                    <div class="form-group col-12">
+                        <label for="password2" class="d-block">Password Confirmation</label>
+                        <input id="password2" type="password" class="form-control" name="password_confirmation">
+                    </div>
+                </div>
+
+
+
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary btn-lg btn-block">
+=======
                     <input id="email"
                         type="email"
                         class="form-control"
@@ -118,6 +184,7 @@
                 <div class="form-group">
                     <button type="submit"
                         class="btn btn-primary btn-lg btn-block">
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                         Register
                     </button>
                 </div>
