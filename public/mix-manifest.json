@@ -1,6 +1,9 @@
 {
+<<<<<<< HEAD
     "/library/bootstrap/LICENSE": "/library/bootstrap/LICENSE",
     "/library/bootstrap/README.md": "/library/bootstrap/README.md",
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/bootstrap/dist/css/bootstrap-grid.css": "/library/bootstrap/dist/css/bootstrap-grid.css",
     "/library/bootstrap/dist/css/bootstrap-grid.css.map": "/library/bootstrap/dist/css/bootstrap-grid.css.map",
     "/library/bootstrap/dist/css/bootstrap-grid.min.css": "/library/bootstrap/dist/css/bootstrap-grid.min.css",
@@ -59,6 +62,7 @@
     "/library/bootstrap/js/src/tools/sanitizer.js": "/library/bootstrap/js/src/tools/sanitizer.js",
     "/library/bootstrap/js/src/tooltip.js": "/library/bootstrap/js/src/tooltip.js",
     "/library/bootstrap/js/src/util.js": "/library/bootstrap/js/src/util.js",
+<<<<<<< HEAD
     "/library/bootstrap/package.json": "/library/bootstrap/package.json",
     "/library/bootstrap/scss/_alert.scss": "/library/bootstrap/scss/_alert.scss",
     "/library/bootstrap/scss/_badge.scss": "/library/bootstrap/scss/_badge.scss",
@@ -97,6 +101,11 @@
     "/library/bootstrap/scss/_type.scss": "/library/bootstrap/scss/_type.scss",
     "/library/bootstrap/scss/_utilities.scss": "/library/bootstrap/scss/_utilities.scss",
     "/library/bootstrap/scss/_variables.scss": "/library/bootstrap/scss/_variables.scss",
+=======
+    "/library/bootstrap/LICENSE": "/library/bootstrap/LICENSE",
+    "/library/bootstrap/package.json": "/library/bootstrap/package.json",
+    "/library/bootstrap/README.md": "/library/bootstrap/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/bootstrap/scss/bootstrap-grid.scss": "/library/bootstrap/scss/bootstrap-grid.scss",
     "/library/bootstrap/scss/bootstrap-reboot.scss": "/library/bootstrap/scss/bootstrap-reboot.scss",
     "/library/bootstrap/scss/bootstrap.scss": "/library/bootstrap/scss/bootstrap.scss",
@@ -150,9 +159,49 @@
     "/library/bootstrap/scss/utilities/_text.scss": "/library/bootstrap/scss/utilities/_text.scss",
     "/library/bootstrap/scss/utilities/_visibility.scss": "/library/bootstrap/scss/utilities/_visibility.scss",
     "/library/bootstrap/scss/vendor/_rfs.scss": "/library/bootstrap/scss/vendor/_rfs.scss",
+<<<<<<< HEAD
     "/library/flag-icon-css/Gruntfile.coffee": "/library/flag-icon-css/Gruntfile.coffee",
     "/library/flag-icon-css/LICENSE": "/library/flag-icon-css/LICENSE",
     "/library/flag-icon-css/README.md": "/library/flag-icon-css/README.md",
+=======
+    "/library/bootstrap/scss/_alert.scss": "/library/bootstrap/scss/_alert.scss",
+    "/library/bootstrap/scss/_badge.scss": "/library/bootstrap/scss/_badge.scss",
+    "/library/bootstrap/scss/_breadcrumb.scss": "/library/bootstrap/scss/_breadcrumb.scss",
+    "/library/bootstrap/scss/_button-group.scss": "/library/bootstrap/scss/_button-group.scss",
+    "/library/bootstrap/scss/_buttons.scss": "/library/bootstrap/scss/_buttons.scss",
+    "/library/bootstrap/scss/_card.scss": "/library/bootstrap/scss/_card.scss",
+    "/library/bootstrap/scss/_carousel.scss": "/library/bootstrap/scss/_carousel.scss",
+    "/library/bootstrap/scss/_close.scss": "/library/bootstrap/scss/_close.scss",
+    "/library/bootstrap/scss/_code.scss": "/library/bootstrap/scss/_code.scss",
+    "/library/bootstrap/scss/_custom-forms.scss": "/library/bootstrap/scss/_custom-forms.scss",
+    "/library/bootstrap/scss/_dropdown.scss": "/library/bootstrap/scss/_dropdown.scss",
+    "/library/bootstrap/scss/_forms.scss": "/library/bootstrap/scss/_forms.scss",
+    "/library/bootstrap/scss/_functions.scss": "/library/bootstrap/scss/_functions.scss",
+    "/library/bootstrap/scss/_grid.scss": "/library/bootstrap/scss/_grid.scss",
+    "/library/bootstrap/scss/_images.scss": "/library/bootstrap/scss/_images.scss",
+    "/library/bootstrap/scss/_input-group.scss": "/library/bootstrap/scss/_input-group.scss",
+    "/library/bootstrap/scss/_jumbotron.scss": "/library/bootstrap/scss/_jumbotron.scss",
+    "/library/bootstrap/scss/_list-group.scss": "/library/bootstrap/scss/_list-group.scss",
+    "/library/bootstrap/scss/_media.scss": "/library/bootstrap/scss/_media.scss",
+    "/library/bootstrap/scss/_mixins.scss": "/library/bootstrap/scss/_mixins.scss",
+    "/library/bootstrap/scss/_modal.scss": "/library/bootstrap/scss/_modal.scss",
+    "/library/bootstrap/scss/_nav.scss": "/library/bootstrap/scss/_nav.scss",
+    "/library/bootstrap/scss/_navbar.scss": "/library/bootstrap/scss/_navbar.scss",
+    "/library/bootstrap/scss/_pagination.scss": "/library/bootstrap/scss/_pagination.scss",
+    "/library/bootstrap/scss/_popover.scss": "/library/bootstrap/scss/_popover.scss",
+    "/library/bootstrap/scss/_print.scss": "/library/bootstrap/scss/_print.scss",
+    "/library/bootstrap/scss/_progress.scss": "/library/bootstrap/scss/_progress.scss",
+    "/library/bootstrap/scss/_reboot.scss": "/library/bootstrap/scss/_reboot.scss",
+    "/library/bootstrap/scss/_root.scss": "/library/bootstrap/scss/_root.scss",
+    "/library/bootstrap/scss/_spinners.scss": "/library/bootstrap/scss/_spinners.scss",
+    "/library/bootstrap/scss/_tables.scss": "/library/bootstrap/scss/_tables.scss",
+    "/library/bootstrap/scss/_toasts.scss": "/library/bootstrap/scss/_toasts.scss",
+    "/library/bootstrap/scss/_tooltip.scss": "/library/bootstrap/scss/_tooltip.scss",
+    "/library/bootstrap/scss/_transitions.scss": "/library/bootstrap/scss/_transitions.scss",
+    "/library/bootstrap/scss/_type.scss": "/library/bootstrap/scss/_type.scss",
+    "/library/bootstrap/scss/_utilities.scss": "/library/bootstrap/scss/_utilities.scss",
+    "/library/bootstrap/scss/_variables.scss": "/library/bootstrap/scss/_variables.scss",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/flag-icon-css/assets/docs.css": "/library/flag-icon-css/assets/docs.css",
     "/library/flag-icon-css/assets/docs.js": "/library/flag-icon-css/assets/docs.js",
     "/library/flag-icon-css/assets/docs.less": "/library/flag-icon-css/assets/docs.less",
@@ -677,12 +726,17 @@
     "/library/flag-icon-css/flags/4x3/za.svg": "/library/flag-icon-css/flags/4x3/za.svg",
     "/library/flag-icon-css/flags/4x3/zm.svg": "/library/flag-icon-css/flags/4x3/zm.svg",
     "/library/flag-icon-css/flags/4x3/zw.svg": "/library/flag-icon-css/flags/4x3/zw.svg",
+<<<<<<< HEAD
+=======
+    "/library/flag-icon-css/Gruntfile.coffee": "/library/flag-icon-css/Gruntfile.coffee",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/flag-icon-css/index.html": "/library/flag-icon-css/index.html",
     "/library/flag-icon-css/less/flag-icon-base.less": "/library/flag-icon-css/less/flag-icon-base.less",
     "/library/flag-icon-css/less/flag-icon-list.less": "/library/flag-icon-css/less/flag-icon-list.less",
     "/library/flag-icon-css/less/flag-icon-more.less": "/library/flag-icon-css/less/flag-icon-more.less",
     "/library/flag-icon-css/less/flag-icon.less": "/library/flag-icon-css/less/flag-icon.less",
     "/library/flag-icon-css/less/variables.less": "/library/flag-icon-css/less/variables.less",
+<<<<<<< HEAD
     "/library/flag-icon-css/package.json": "/library/flag-icon-css/package.json",
     "/library/flag-icon-css/sass/_flag-icon-base.scss": "/library/flag-icon-css/sass/_flag-icon-base.scss",
     "/library/flag-icon-css/sass/_flag-icon-list.scss": "/library/flag-icon-css/sass/_flag-icon-list.scss",
@@ -696,10 +750,27 @@
     "/library/jqvmap/REGIONS.md": "/library/jqvmap/REGIONS.md",
     "/library/jqvmap/bower.json": "/library/jqvmap/bower.json",
     "/library/jqvmap/create/README.md": "/library/jqvmap/create/README.md",
+=======
+    "/library/flag-icon-css/LICENSE": "/library/flag-icon-css/LICENSE",
+    "/library/flag-icon-css/package.json": "/library/flag-icon-css/package.json",
+    "/library/flag-icon-css/README.md": "/library/flag-icon-css/README.md",
+    "/library/flag-icon-css/sass/flag-icon.scss": "/library/flag-icon-css/sass/flag-icon.scss",
+    "/library/flag-icon-css/sass/_flag-icon-base.scss": "/library/flag-icon-css/sass/_flag-icon-base.scss",
+    "/library/flag-icon-css/sass/_flag-icon-list.scss": "/library/flag-icon-css/sass/_flag-icon-list.scss",
+    "/library/flag-icon-css/sass/_variables.scss": "/library/flag-icon-css/sass/_variables.scss",
+    "/library/flag-icon-css/svgo.yaml": "/library/flag-icon-css/svgo.yaml",
+    "/library/jqvmap/bower.json": "/library/jqvmap/bower.json",
+    "/library/jqvmap/CHANGELOG.md": "/library/jqvmap/CHANGELOG.md",
+    "/library/jqvmap/CONTRIBUTING.md": "/library/jqvmap/CONTRIBUTING.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/jqvmap/create/config/continent.json": "/library/jqvmap/create/config/continent.json",
     "/library/jqvmap/create/config/new-york.json": "/library/jqvmap/create/config/new-york.json",
     "/library/jqvmap/create/config/syria.json": "/library/jqvmap/create/config/syria.json",
     "/library/jqvmap/create/jqvmap.py": "/library/jqvmap/create/jqvmap.py",
+<<<<<<< HEAD
+=======
+    "/library/jqvmap/create/README.md": "/library/jqvmap/create/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/jqvmap/dist/jquery.vmap.js": "/library/jqvmap/dist/jquery.vmap.js",
     "/library/jqvmap/dist/jquery.vmap.min.js": "/library/jqvmap/dist/jquery.vmap.min.js",
     "/library/jqvmap/dist/jqvmap.css": "/library/jqvmap/dist/jqvmap.css",
@@ -787,6 +858,7 @@
     "/library/jqvmap/grunt/shell.js": "/library/jqvmap/grunt/shell.js",
     "/library/jqvmap/grunt/uglify.js": "/library/jqvmap/grunt/uglify.js",
     "/library/jqvmap/gruntfile.js": "/library/jqvmap/gruntfile.js",
+<<<<<<< HEAD
     "/library/jqvmap/node_modules/jquery/AUTHORS.txt": "/library/jqvmap/node_modules/jquery/AUTHORS.txt",
     "/library/jqvmap/node_modules/jquery/CONTRIBUTING.md": "/library/jqvmap/node_modules/jquery/CONTRIBUTING.md",
     "/library/jqvmap/node_modules/jquery/MIT-LICENSE.txt": "/library/jqvmap/node_modules/jquery/MIT-LICENSE.txt",
@@ -796,6 +868,18 @@
     "/library/jqvmap/node_modules/jquery/dist/jquery.min.js": "/library/jqvmap/node_modules/jquery/dist/jquery.min.js",
     "/library/jqvmap/node_modules/jquery/dist/jquery.min.map": "/library/jqvmap/node_modules/jquery/dist/jquery.min.map",
     "/library/jqvmap/node_modules/jquery/package.json": "/library/jqvmap/node_modules/jquery/package.json",
+=======
+    "/library/jqvmap/LICENSE": "/library/jqvmap/LICENSE",
+    "/library/jqvmap/node_modules/jquery/AUTHORS.txt": "/library/jqvmap/node_modules/jquery/AUTHORS.txt",
+    "/library/jqvmap/node_modules/jquery/bower.json": "/library/jqvmap/node_modules/jquery/bower.json",
+    "/library/jqvmap/node_modules/jquery/CONTRIBUTING.md": "/library/jqvmap/node_modules/jquery/CONTRIBUTING.md",
+    "/library/jqvmap/node_modules/jquery/dist/jquery.js": "/library/jqvmap/node_modules/jquery/dist/jquery.js",
+    "/library/jqvmap/node_modules/jquery/dist/jquery.min.js": "/library/jqvmap/node_modules/jquery/dist/jquery.min.js",
+    "/library/jqvmap/node_modules/jquery/dist/jquery.min.map": "/library/jqvmap/node_modules/jquery/dist/jquery.min.map",
+    "/library/jqvmap/node_modules/jquery/MIT-LICENSE.txt": "/library/jqvmap/node_modules/jquery/MIT-LICENSE.txt",
+    "/library/jqvmap/node_modules/jquery/package.json": "/library/jqvmap/node_modules/jquery/package.json",
+    "/library/jqvmap/node_modules/jquery/README.md": "/library/jqvmap/node_modules/jquery/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/jqvmap/node_modules/jquery/src/ajax/jsonp.js": "/library/jqvmap/node_modules/jquery/src/ajax/jsonp.js",
     "/library/jqvmap/node_modules/jquery/src/ajax/load.js": "/library/jqvmap/node_modules/jquery/src/ajax/load.js",
     "/library/jqvmap/node_modules/jquery/src/ajax/parseJSON.js": "/library/jqvmap/node_modules/jquery/src/ajax/parseJSON.js",
@@ -835,9 +919,15 @@
     "/library/jqvmap/node_modules/jquery/src/deferred.js": "/library/jqvmap/node_modules/jquery/src/deferred.js",
     "/library/jqvmap/node_modules/jquery/src/deprecated.js": "/library/jqvmap/node_modules/jquery/src/deprecated.js",
     "/library/jqvmap/node_modules/jquery/src/dimensions.js": "/library/jqvmap/node_modules/jquery/src/dimensions.js",
+<<<<<<< HEAD
     "/library/jqvmap/node_modules/jquery/src/effects/Tween.js": "/library/jqvmap/node_modules/jquery/src/effects/Tween.js",
     "/library/jqvmap/node_modules/jquery/src/effects/animatedSelector.js": "/library/jqvmap/node_modules/jquery/src/effects/animatedSelector.js",
     "/library/jqvmap/node_modules/jquery/src/effects/support.js": "/library/jqvmap/node_modules/jquery/src/effects/support.js",
+=======
+    "/library/jqvmap/node_modules/jquery/src/effects/animatedSelector.js": "/library/jqvmap/node_modules/jquery/src/effects/animatedSelector.js",
+    "/library/jqvmap/node_modules/jquery/src/effects/support.js": "/library/jqvmap/node_modules/jquery/src/effects/support.js",
+    "/library/jqvmap/node_modules/jquery/src/effects/Tween.js": "/library/jqvmap/node_modules/jquery/src/effects/Tween.js",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/jqvmap/node_modules/jquery/src/effects.js": "/library/jqvmap/node_modules/jquery/src/effects.js",
     "/library/jqvmap/node_modules/jquery/src/event/ajax.js": "/library/jqvmap/node_modules/jquery/src/event/ajax.js",
     "/library/jqvmap/node_modules/jquery/src/event/alias.js": "/library/jqvmap/node_modules/jquery/src/event/alias.js",
@@ -847,9 +937,15 @@
     "/library/jqvmap/node_modules/jquery/src/exports/global.js": "/library/jqvmap/node_modules/jquery/src/exports/global.js",
     "/library/jqvmap/node_modules/jquery/src/intro.js": "/library/jqvmap/node_modules/jquery/src/intro.js",
     "/library/jqvmap/node_modules/jquery/src/jquery.js": "/library/jqvmap/node_modules/jquery/src/jquery.js",
+<<<<<<< HEAD
     "/library/jqvmap/node_modules/jquery/src/manipulation/_evalUrl.js": "/library/jqvmap/node_modules/jquery/src/manipulation/_evalUrl.js",
     "/library/jqvmap/node_modules/jquery/src/manipulation/support.js": "/library/jqvmap/node_modules/jquery/src/manipulation/support.js",
     "/library/jqvmap/node_modules/jquery/src/manipulation/var/rcheckableType.js": "/library/jqvmap/node_modules/jquery/src/manipulation/var/rcheckableType.js",
+=======
+    "/library/jqvmap/node_modules/jquery/src/manipulation/support.js": "/library/jqvmap/node_modules/jquery/src/manipulation/support.js",
+    "/library/jqvmap/node_modules/jquery/src/manipulation/var/rcheckableType.js": "/library/jqvmap/node_modules/jquery/src/manipulation/var/rcheckableType.js",
+    "/library/jqvmap/node_modules/jquery/src/manipulation/_evalUrl.js": "/library/jqvmap/node_modules/jquery/src/manipulation/_evalUrl.js",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/jqvmap/node_modules/jquery/src/manipulation.js": "/library/jqvmap/node_modules/jquery/src/manipulation.js",
     "/library/jqvmap/node_modules/jquery/src/offset.js": "/library/jqvmap/node_modules/jquery/src/offset.js",
     "/library/jqvmap/node_modules/jquery/src/outro.js": "/library/jqvmap/node_modules/jquery/src/outro.js",
@@ -887,6 +983,11 @@
     "/library/jqvmap/node_modules/jquery/src/var/toString.js": "/library/jqvmap/node_modules/jquery/src/var/toString.js",
     "/library/jqvmap/node_modules/jquery/src/wrap.js": "/library/jqvmap/node_modules/jquery/src/wrap.js",
     "/library/jqvmap/package.json": "/library/jqvmap/package.json",
+<<<<<<< HEAD
+=======
+    "/library/jqvmap/README.md": "/library/jqvmap/README.md",
+    "/library/jqvmap/REGIONS.md": "/library/jqvmap/REGIONS.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/jqvmap/src/Base.js": "/library/jqvmap/src/Base.js",
     "/library/jqvmap/src/ColorScale/arrayToRgb.js": "/library/jqvmap/src/ColorScale/arrayToRgb.js",
     "/library/jqvmap/src/ColorScale/getColor.js": "/library/jqvmap/src/ColorScale/getColor.js",
@@ -941,8 +1042,11 @@
     "/library/jqvmap/tests/qunit/qunit.js": "/library/jqvmap/tests/qunit/qunit.js",
     "/library/jqvmap/tests/tests.js": "/library/jqvmap/tests/tests.js",
     "/library/summernote/CHANGES.md": "/library/summernote/CHANGES.md",
+<<<<<<< HEAD
     "/library/summernote/LICENSE": "/library/summernote/LICENSE",
     "/library/summernote/README.md": "/library/summernote/README.md",
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/summernote/config/build-fonts.js": "/library/summernote/config/build-fonts.js",
     "/library/summernote/config/common.js": "/library/summernote/config/common.js",
     "/library/summernote/config/webpack.development.js": "/library/summernote/config/webpack.development.js",
@@ -1123,7 +1227,10 @@
     "/library/summernote/dist/summernote.js.map": "/library/summernote/dist/summernote.js.map",
     "/library/summernote/dist/summernote.min.css": "/library/summernote/dist/summernote.min.css",
     "/library/summernote/dist/summernote.min.js": "/library/summernote/dist/summernote.min.js",
+<<<<<<< HEAD
     "/library/summernote/examples/README.md": "/library/summernote/examples/README.md",
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/summernote/examples/airmode.html": "/library/summernote/examples/airmode.html",
     "/library/summernote/examples/codemirror.html": "/library/summernote/examples/codemirror.html",
     "/library/summernote/examples/custom-style.html": "/library/summernote/examples/custom-style.html",
@@ -1144,16 +1251,28 @@
     "/library/summernote/examples/ondialog.html": "/library/summernote/examples/ondialog.html",
     "/library/summernote/examples/placeholder.html": "/library/summernote/examples/placeholder.html",
     "/library/summernote/examples/plugin-hello.html": "/library/summernote/examples/plugin-hello.html",
+<<<<<<< HEAD
+=======
+    "/library/summernote/examples/README.md": "/library/summernote/examples/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/summernote/examples/recordEveryKeyStroke.html": "/library/summernote/examples/recordEveryKeyStroke.html",
     "/library/summernote/examples/symbols_mathematical-symbols_Greek-letters.json": "/library/summernote/examples/symbols_mathematical-symbols_Greek-letters.json",
     "/library/summernote/examples/textarea.html": "/library/summernote/examples/textarea.html",
     "/library/summernote/examples/toolbar-container.html": "/library/summernote/examples/toolbar-container.html",
     "/library/summernote/examples/with-google-font.html": "/library/summernote/examples/with-google-font.html",
+<<<<<<< HEAD
+=======
+    "/library/summernote/LICENSE": "/library/summernote/LICENSE",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/summernote/package.json": "/library/summernote/package.json",
     "/library/summernote/plugin/databasic/summernote-ext-databasic.css": "/library/summernote/plugin/databasic/summernote-ext-databasic.css",
     "/library/summernote/plugin/databasic/summernote-ext-databasic.js": "/library/summernote/plugin/databasic/summernote-ext-databasic.js",
     "/library/summernote/plugin/hello/summernote-ext-hello.js": "/library/summernote/plugin/hello/summernote-ext-hello.js",
     "/library/summernote/plugin/specialchars/summernote-ext-specialchars.js": "/library/summernote/plugin/specialchars/summernote-ext-specialchars.js",
+<<<<<<< HEAD
+=======
+    "/library/summernote/README.md": "/library/summernote/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/summernote/src/font/icons/align-center.svg": "/library/summernote/src/font/icons/align-center.svg",
     "/library/summernote/src/font/icons/align-indent.svg": "/library/summernote/src/font/icons/align-indent.svg",
     "/library/summernote/src/font/icons/align-justify.svg": "/library/summernote/src/font/icons/align-justify.svg",
@@ -1302,7 +1421,10 @@
     "/library/summernote/src/lang/summernote-vi-VN.js": "/library/summernote/src/lang/summernote-vi-VN.js",
     "/library/summernote/src/lang/summernote-zh-CN.js": "/library/summernote/src/lang/summernote-zh-CN.js",
     "/library/summernote/src/lang/summernote-zh-TW.js": "/library/summernote/src/lang/summernote-zh-TW.js",
+<<<<<<< HEAD
     "/library/summernote/src/styles/README.md": "/library/summernote/src/styles/README.md",
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/summernote/src/styles/bs3/summernote-bs3.html": "/library/summernote/src/styles/bs3/summernote-bs3.html",
     "/library/summernote/src/styles/bs3/summernote-bs3.js": "/library/summernote/src/styles/bs3/summernote-bs3.js",
     "/library/summernote/src/styles/bs3/summernote-bs3.json": "/library/summernote/src/styles/bs3/summernote-bs3.json",
@@ -1334,7 +1456,11 @@
     "/library/summernote/src/styles/lite/summernote-lite.js": "/library/summernote/src/styles/lite/summernote-lite.js",
     "/library/summernote/src/styles/lite/summernote-lite.json": "/library/summernote/src/styles/lite/summernote-lite.json",
     "/library/summernote/src/styles/lite/summernote-lite.scss": "/library/summernote/src/styles/lite/summernote-lite.scss",
+<<<<<<< HEAD
     "/library/summernote/src/styles/summernote/README.md": "/library/summernote/src/styles/summernote/README.md",
+=======
+    "/library/summernote/src/styles/README.md": "/library/summernote/src/styles/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/summernote/src/styles/summernote/common.scss": "/library/summernote/src/styles/summernote/common.scss",
     "/library/summernote/src/styles/summernote/elements.scss": "/library/summernote/src/styles/summernote/elements.scss",
     "/library/summernote/src/styles/summernote/font/summernote.eot": "/library/summernote/src/styles/summernote/font/summernote.eot",
@@ -1343,6 +1469,7 @@
     "/library/summernote/src/styles/summernote/font/summernote.woff": "/library/summernote/src/styles/summernote/font/summernote.woff",
     "/library/summernote/src/styles/summernote/font/summernote.woff2": "/library/summernote/src/styles/summernote/font/summernote.woff2",
     "/library/summernote/src/styles/summernote/font.scss": "/library/summernote/src/styles/summernote/font.scss",
+<<<<<<< HEAD
     "/library/owl.carousel/CONTRIBUTING.md": "/library/owl.carousel/CONTRIBUTING.md",
     "/library/owl.carousel/Gruntfile.js": "/library/owl.carousel/Gruntfile.js",
     "/library/owl.carousel/ISSUE_TEMPLATE.md": "/library/owl.carousel/ISSUE_TEMPLATE.md",
@@ -1353,6 +1480,11 @@
     "/library/owl.carousel/bower.json": "/library/owl.carousel/bower.json",
     "/library/owl.carousel/dist/LICENSE": "/library/owl.carousel/dist/LICENSE",
     "/library/owl.carousel/dist/README.md": "/library/owl.carousel/dist/README.md",
+=======
+    "/library/summernote/src/styles/summernote/README.md": "/library/summernote/src/styles/summernote/README.md",
+    "/library/owl.carousel/bower.json": "/library/owl.carousel/bower.json",
+    "/library/owl.carousel/CONTRIBUTING.md": "/library/owl.carousel/CONTRIBUTING.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/owl.carousel/dist/assets/ajax-loader.gif": "/library/owl.carousel/dist/assets/ajax-loader.gif",
     "/library/owl.carousel/dist/assets/owl.carousel.css": "/library/owl.carousel/dist/assets/owl.carousel.css",
     "/library/owl.carousel/dist/assets/owl.carousel.min.css": "/library/owl.carousel/dist/assets/owl.carousel.min.css",
@@ -1361,8 +1493,15 @@
     "/library/owl.carousel/dist/assets/owl.theme.green.css": "/library/owl.carousel/dist/assets/owl.theme.green.css",
     "/library/owl.carousel/dist/assets/owl.theme.green.min.css": "/library/owl.carousel/dist/assets/owl.theme.green.min.css",
     "/library/owl.carousel/dist/assets/owl.video.play.png": "/library/owl.carousel/dist/assets/owl.video.play.png",
+<<<<<<< HEAD
     "/library/owl.carousel/dist/owl.carousel.js": "/library/owl.carousel/dist/owl.carousel.js",
     "/library/owl.carousel/dist/owl.carousel.min.js": "/library/owl.carousel/dist/owl.carousel.min.js",
+=======
+    "/library/owl.carousel/dist/LICENSE": "/library/owl.carousel/dist/LICENSE",
+    "/library/owl.carousel/dist/owl.carousel.js": "/library/owl.carousel/dist/owl.carousel.js",
+    "/library/owl.carousel/dist/owl.carousel.min.js": "/library/owl.carousel/dist/owl.carousel.min.js",
+    "/library/owl.carousel/dist/README.md": "/library/owl.carousel/dist/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/owl.carousel/docs/assets/css/animate.css": "/library/owl.carousel/docs/assets/css/animate.css",
     "/library/owl.carousel/docs/assets/css/docs.theme.min.css": "/library/owl.carousel/docs/assets/css/docs.theme.min.css",
     "/library/owl.carousel/docs/assets/img/bird_blue_32.png": "/library/owl.carousel/docs/assets/img/bird_blue_32.png",
@@ -1377,7 +1516,10 @@
     "/library/owl.carousel/docs/assets/img/twitter_25.png": "/library/owl.carousel/docs/assets/img/twitter_25.png",
     "/library/owl.carousel/docs/assets/js/app.js": "/library/owl.carousel/docs/assets/js/app.js",
     "/library/owl.carousel/docs/assets/js/foundation.min.js": "/library/owl.carousel/docs/assets/js/foundation.min.js",
+<<<<<<< HEAD
     "/library/owl.carousel/docs/assets/owlcarousel/README.md": "/library/owl.carousel/docs/assets/owlcarousel/README.md",
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/owl.carousel/docs/assets/owlcarousel/assets/ajax-loader.gif": "/library/owl.carousel/docs/assets/owlcarousel/assets/ajax-loader.gif",
     "/library/owl.carousel/docs/assets/owlcarousel/assets/owl.carousel.css": "/library/owl.carousel/docs/assets/owlcarousel/assets/owl.carousel.css",
     "/library/owl.carousel/docs/assets/owlcarousel/assets/owl.carousel.min.css": "/library/owl.carousel/docs/assets/owlcarousel/assets/owl.carousel.min.css",
@@ -1388,6 +1530,10 @@
     "/library/owl.carousel/docs/assets/owlcarousel/assets/owl.video.play.png": "/library/owl.carousel/docs/assets/owlcarousel/assets/owl.video.play.png",
     "/library/owl.carousel/docs/assets/owlcarousel/owl.carousel.js": "/library/owl.carousel/docs/assets/owlcarousel/owl.carousel.js",
     "/library/owl.carousel/docs/assets/owlcarousel/owl.carousel.min.js": "/library/owl.carousel/docs/assets/owlcarousel/owl.carousel.min.js",
+<<<<<<< HEAD
+=======
+    "/library/owl.carousel/docs/assets/owlcarousel/README.md": "/library/owl.carousel/docs/assets/owlcarousel/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/owl.carousel/docs/assets/vendors/foundation.min.js": "/library/owl.carousel/docs/assets/vendors/foundation.min.js",
     "/library/owl.carousel/docs/assets/vendors/highlight.js": "/library/owl.carousel/docs/assets/vendors/highlight.js",
     "/library/owl.carousel/docs/assets/vendors/jquery.min.js": "/library/owl.carousel/docs/assets/vendors/jquery.min.js",
@@ -1437,12 +1583,19 @@
     "/library/owl.carousel/docs_src/assets/img/twitter_25.png": "/library/owl.carousel/docs_src/assets/img/twitter_25.png",
     "/library/owl.carousel/docs_src/assets/js/app.js": "/library/owl.carousel/docs_src/assets/js/app.js",
     "/library/owl.carousel/docs_src/assets/js/foundation.min.js": "/library/owl.carousel/docs_src/assets/js/foundation.min.js",
+<<<<<<< HEAD
     "/library/owl.carousel/docs_src/assets/scss/_settings.scss": "/library/owl.carousel/docs_src/assets/scss/_settings.scss",
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/owl.carousel/docs_src/assets/scss/custom.scss": "/library/owl.carousel/docs_src/assets/scss/custom.scss",
     "/library/owl.carousel/docs_src/assets/scss/demos.scss": "/library/owl.carousel/docs_src/assets/scss/demos.scss",
     "/library/owl.carousel/docs_src/assets/scss/docs.scss": "/library/owl.carousel/docs_src/assets/scss/docs.scss",
     "/library/owl.carousel/docs_src/assets/scss/docs.theme.scss": "/library/owl.carousel/docs_src/assets/scss/docs.theme.scss",
     "/library/owl.carousel/docs_src/assets/scss/highlight.scss": "/library/owl.carousel/docs_src/assets/scss/highlight.scss",
+<<<<<<< HEAD
+=======
+    "/library/owl.carousel/docs_src/assets/scss/_settings.scss": "/library/owl.carousel/docs_src/assets/scss/_settings.scss",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/owl.carousel/docs_src/assets/vendors/foundation.min.js": "/library/owl.carousel/docs_src/assets/vendors/foundation.min.js",
     "/library/owl.carousel/docs_src/assets/vendors/highlight.js": "/library/owl.carousel/docs_src/assets/vendors/highlight.js",
     "/library/owl.carousel/docs_src/assets/vendors/jquery.min.js": "/library/owl.carousel/docs_src/assets/vendors/jquery.min.js",
@@ -1500,7 +1653,16 @@
     "/library/owl.carousel/docs_src/templates/partials/sidenav-docs.hbs": "/library/owl.carousel/docs_src/templates/partials/sidenav-docs.hbs",
     "/library/owl.carousel/docs_src/templates/partials/title.hbs": "/library/owl.carousel/docs_src/templates/partials/title.hbs",
     "/library/owl.carousel/docs_src/templates/partials/vendors.hbs": "/library/owl.carousel/docs_src/templates/partials/vendors.hbs",
+<<<<<<< HEAD
     "/library/owl.carousel/package.json": "/library/owl.carousel/package.json",
+=======
+    "/library/owl.carousel/Gruntfile.js": "/library/owl.carousel/Gruntfile.js",
+    "/library/owl.carousel/ISSUE_TEMPLATE.md": "/library/owl.carousel/ISSUE_TEMPLATE.md",
+    "/library/owl.carousel/LICENSE": "/library/owl.carousel/LICENSE",
+    "/library/owl.carousel/package.json": "/library/owl.carousel/package.json",
+    "/library/owl.carousel/README.md": "/library/owl.carousel/README.md",
+    "/library/owl.carousel/ROADMAP.md": "/library/owl.carousel/ROADMAP.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/owl.carousel/src/img/ajax-loader.gif": "/library/owl.carousel/src/img/ajax-loader.gif",
     "/library/owl.carousel/src/img/owl.video.play.png": "/library/owl.carousel/src/img/owl.video.play.png",
     "/library/owl.carousel/src/js/owl.animate.js": "/library/owl.carousel/src/js/owl.animate.js",
@@ -1514,6 +1676,12 @@
     "/library/owl.carousel/src/js/owl.support.js": "/library/owl.carousel/src/js/owl.support.js",
     "/library/owl.carousel/src/js/owl.support.modernizr.js": "/library/owl.carousel/src/js/owl.support.modernizr.js",
     "/library/owl.carousel/src/js/owl.video.js": "/library/owl.carousel/src/js/owl.video.js",
+<<<<<<< HEAD
+=======
+    "/library/owl.carousel/src/scss/owl.carousel.scss": "/library/owl.carousel/src/scss/owl.carousel.scss",
+    "/library/owl.carousel/src/scss/owl.theme.default.scss": "/library/owl.carousel/src/scss/owl.theme.default.scss",
+    "/library/owl.carousel/src/scss/owl.theme.green.scss": "/library/owl.carousel/src/scss/owl.theme.green.scss",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/owl.carousel/src/scss/_animate.scss": "/library/owl.carousel/src/scss/_animate.scss",
     "/library/owl.carousel/src/scss/_autoheight.scss": "/library/owl.carousel/src/scss/_autoheight.scss",
     "/library/owl.carousel/src/scss/_core.scss": "/library/owl.carousel/src/scss/_core.scss",
@@ -1522,6 +1690,7 @@
     "/library/owl.carousel/src/scss/_theme.green.scss": "/library/owl.carousel/src/scss/_theme.green.scss",
     "/library/owl.carousel/src/scss/_theme.scss": "/library/owl.carousel/src/scss/_theme.scss",
     "/library/owl.carousel/src/scss/_video.scss": "/library/owl.carousel/src/scss/_video.scss",
+<<<<<<< HEAD
     "/library/owl.carousel/src/scss/owl.carousel.scss": "/library/owl.carousel/src/scss/owl.carousel.scss",
     "/library/owl.carousel/src/scss/owl.theme.default.scss": "/library/owl.carousel/src/scss/owl.theme.default.scss",
     "/library/owl.carousel/src/scss/owl.theme.green.scss": "/library/owl.carousel/src/scss/owl.theme.green.scss",
@@ -1529,6 +1698,12 @@
     "/library/owl.carousel/test/unit/autoplay.js": "/library/owl.carousel/test/unit/autoplay.js",
     "/library/owl.carousel/test/unit/core.js": "/library/owl.carousel/test/unit/core.js",
     "/library/weathericons/README.md": "/library/weathericons/README.md",
+=======
+    "/library/owl.carousel/test/index.html": "/library/owl.carousel/test/index.html",
+    "/library/owl.carousel/test/unit/autoplay.js": "/library/owl.carousel/test/unit/autoplay.js",
+    "/library/owl.carousel/test/unit/core.js": "/library/owl.carousel/test/unit/core.js",
+    "/library/owl.carousel/_config.json": "/library/owl.carousel/_config.json",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/weathericons/bower.json": "/library/weathericons/bower.json",
     "/library/weathericons/css/weather-icons-wind.css": "/library/weathericons/css/weather-icons-wind.css",
     "/library/weathericons/css/weather-icons-wind.min.css": "/library/weathericons/css/weather-icons-wind.min.css",
@@ -1573,6 +1748,10 @@
     "/library/weathericons/less/weather-icons.less": "/library/weathericons/less/weather-icons.less",
     "/library/weathericons/less/weather-icons.min.less": "/library/weathericons/less/weather-icons.min.less",
     "/library/weathericons/package.json": "/library/weathericons/package.json",
+<<<<<<< HEAD
+=======
+    "/library/weathericons/README.md": "/library/weathericons/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/weathericons/sass/icon-classes/classes-beaufort.scss": "/library/weathericons/sass/icon-classes/classes-beaufort.scss",
     "/library/weathericons/sass/icon-classes/classes-day.scss": "/library/weathericons/sass/icon-classes/classes-day.scss",
     "/library/weathericons/sass/icon-classes/classes-direction.scss": "/library/weathericons/sass/icon-classes/classes-direction.scss",
@@ -1608,8 +1787,11 @@
     "/library/weathericons/sass/weather-icons.scss": "/library/weathericons/sass/weather-icons.scss",
     "/library/weathericons/values/weathericons.xml": "/library/weathericons/values/weathericons.xml",
     "/library/jquery/AUTHORS.txt": "/library/jquery/AUTHORS.txt",
+<<<<<<< HEAD
     "/library/jquery/LICENSE.txt": "/library/jquery/LICENSE.txt",
     "/library/jquery/README.md": "/library/jquery/README.md",
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/jquery/bower.json": "/library/jquery/bower.json",
     "/library/jquery/dist/jquery.js": "/library/jquery/dist/jquery.js",
     "/library/jquery/dist/jquery.min.js": "/library/jquery/dist/jquery.min.js",
@@ -1617,11 +1799,21 @@
     "/library/jquery/dist/jquery.slim.js": "/library/jquery/dist/jquery.slim.js",
     "/library/jquery/dist/jquery.slim.min.js": "/library/jquery/dist/jquery.slim.min.js",
     "/library/jquery/dist/jquery.slim.min.map": "/library/jquery/dist/jquery.slim.min.map",
+<<<<<<< HEAD
     "/library/jquery/external/sizzle/LICENSE.txt": "/library/jquery/external/sizzle/LICENSE.txt",
     "/library/jquery/external/sizzle/dist/sizzle.js": "/library/jquery/external/sizzle/dist/sizzle.js",
     "/library/jquery/external/sizzle/dist/sizzle.min.js": "/library/jquery/external/sizzle/dist/sizzle.min.js",
     "/library/jquery/external/sizzle/dist/sizzle.min.map": "/library/jquery/external/sizzle/dist/sizzle.min.map",
     "/library/jquery/package.json": "/library/jquery/package.json",
+=======
+    "/library/jquery/external/sizzle/dist/sizzle.js": "/library/jquery/external/sizzle/dist/sizzle.js",
+    "/library/jquery/external/sizzle/dist/sizzle.min.js": "/library/jquery/external/sizzle/dist/sizzle.min.js",
+    "/library/jquery/external/sizzle/dist/sizzle.min.map": "/library/jquery/external/sizzle/dist/sizzle.min.map",
+    "/library/jquery/external/sizzle/LICENSE.txt": "/library/jquery/external/sizzle/LICENSE.txt",
+    "/library/jquery/LICENSE.txt": "/library/jquery/LICENSE.txt",
+    "/library/jquery/package.json": "/library/jquery/package.json",
+    "/library/jquery/README.md": "/library/jquery/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/jquery/src/ajax/jsonp.js": "/library/jquery/src/ajax/jsonp.js",
     "/library/jquery/src/ajax/load.js": "/library/jquery/src/ajax/load.js",
     "/library/jquery/src/ajax/script.js": "/library/jquery/src/ajax/script.js",
@@ -1637,9 +1829,15 @@
     "/library/jquery/src/attributes/val.js": "/library/jquery/src/attributes/val.js",
     "/library/jquery/src/attributes.js": "/library/jquery/src/attributes.js",
     "/library/jquery/src/callbacks.js": "/library/jquery/src/callbacks.js",
+<<<<<<< HEAD
     "/library/jquery/src/core/DOMEval.js": "/library/jquery/src/core/DOMEval.js",
     "/library/jquery/src/core/access.js": "/library/jquery/src/core/access.js",
     "/library/jquery/src/core/camelCase.js": "/library/jquery/src/core/camelCase.js",
+=======
+    "/library/jquery/src/core/access.js": "/library/jquery/src/core/access.js",
+    "/library/jquery/src/core/camelCase.js": "/library/jquery/src/core/camelCase.js",
+    "/library/jquery/src/core/DOMEval.js": "/library/jquery/src/core/DOMEval.js",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/jquery/src/core/init.js": "/library/jquery/src/core/init.js",
     "/library/jquery/src/core/isAttached.js": "/library/jquery/src/core/isAttached.js",
     "/library/jquery/src/core/nodeName.js": "/library/jquery/src/core/nodeName.js",
@@ -1678,8 +1876,13 @@
     "/library/jquery/src/deprecated/event.js": "/library/jquery/src/deprecated/event.js",
     "/library/jquery/src/deprecated.js": "/library/jquery/src/deprecated.js",
     "/library/jquery/src/dimensions.js": "/library/jquery/src/dimensions.js",
+<<<<<<< HEAD
     "/library/jquery/src/effects/Tween.js": "/library/jquery/src/effects/Tween.js",
     "/library/jquery/src/effects/animatedSelector.js": "/library/jquery/src/effects/animatedSelector.js",
+=======
+    "/library/jquery/src/effects/animatedSelector.js": "/library/jquery/src/effects/animatedSelector.js",
+    "/library/jquery/src/effects/Tween.js": "/library/jquery/src/effects/Tween.js",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/jquery/src/effects.js": "/library/jquery/src/effects.js",
     "/library/jquery/src/event/focusin.js": "/library/jquery/src/event/focusin.js",
     "/library/jquery/src/event/support.js": "/library/jquery/src/event/support.js",
@@ -1688,7 +1891,10 @@
     "/library/jquery/src/exports/amd.js": "/library/jquery/src/exports/amd.js",
     "/library/jquery/src/exports/global.js": "/library/jquery/src/exports/global.js",
     "/library/jquery/src/jquery.js": "/library/jquery/src/jquery.js",
+<<<<<<< HEAD
     "/library/jquery/src/manipulation/_evalUrl.js": "/library/jquery/src/manipulation/_evalUrl.js",
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/jquery/src/manipulation/buildFragment.js": "/library/jquery/src/manipulation/buildFragment.js",
     "/library/jquery/src/manipulation/getAll.js": "/library/jquery/src/manipulation/getAll.js",
     "/library/jquery/src/manipulation/setGlobalEval.js": "/library/jquery/src/manipulation/setGlobalEval.js",
@@ -1696,6 +1902,10 @@
     "/library/jquery/src/manipulation/var/rscriptType.js": "/library/jquery/src/manipulation/var/rscriptType.js",
     "/library/jquery/src/manipulation/var/rtagName.js": "/library/jquery/src/manipulation/var/rtagName.js",
     "/library/jquery/src/manipulation/wrapMap.js": "/library/jquery/src/manipulation/wrapMap.js",
+<<<<<<< HEAD
+=======
+    "/library/jquery/src/manipulation/_evalUrl.js": "/library/jquery/src/manipulation/_evalUrl.js",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/jquery/src/manipulation.js": "/library/jquery/src/manipulation.js",
     "/library/jquery/src/offset.js": "/library/jquery/src/offset.js",
     "/library/jquery/src/queue/delay.js": "/library/jquery/src/queue/delay.js",
@@ -1709,7 +1919,10 @@
     "/library/jquery/src/traversing/var/rneedsContext.js": "/library/jquery/src/traversing/var/rneedsContext.js",
     "/library/jquery/src/traversing/var/siblings.js": "/library/jquery/src/traversing/var/siblings.js",
     "/library/jquery/src/traversing.js": "/library/jquery/src/traversing.js",
+<<<<<<< HEAD
     "/library/jquery/src/var/ObjectFunctionString.js": "/library/jquery/src/var/ObjectFunctionString.js",
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/jquery/src/var/arr.js": "/library/jquery/src/var/arr.js",
     "/library/jquery/src/var/class2type.js": "/library/jquery/src/var/class2type.js",
     "/library/jquery/src/var/document.js": "/library/jquery/src/var/document.js",
@@ -1721,6 +1934,10 @@
     "/library/jquery/src/var/indexOf.js": "/library/jquery/src/var/indexOf.js",
     "/library/jquery/src/var/isFunction.js": "/library/jquery/src/var/isFunction.js",
     "/library/jquery/src/var/isWindow.js": "/library/jquery/src/var/isWindow.js",
+<<<<<<< HEAD
+=======
+    "/library/jquery/src/var/ObjectFunctionString.js": "/library/jquery/src/var/ObjectFunctionString.js",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/jquery/src/var/pnum.js": "/library/jquery/src/var/pnum.js",
     "/library/jquery/src/var/push.js": "/library/jquery/src/var/push.js",
     "/library/jquery/src/var/rcheckableType.js": "/library/jquery/src/var/rcheckableType.js",
@@ -1731,8 +1948,11 @@
     "/library/jquery/src/var/toString.js": "/library/jquery/src/var/toString.js",
     "/library/jquery/src/wrap.js": "/library/jquery/src/wrap.js",
     "/library/jquery-ui-dist/AUTHORS.txt": "/library/jquery-ui-dist/AUTHORS.txt",
+<<<<<<< HEAD
     "/library/jquery-ui-dist/LICENSE.txt": "/library/jquery-ui-dist/LICENSE.txt",
     "/library/jquery-ui-dist/README.md": "/library/jquery-ui-dist/README.md",
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/jquery-ui-dist/external/jquery/jquery.js": "/library/jquery-ui-dist/external/jquery/jquery.js",
     "/library/jquery-ui-dist/images/ui-icons_444444_256x240.png": "/library/jquery-ui-dist/images/ui-icons_444444_256x240.png",
     "/library/jquery-ui-dist/images/ui-icons_555555_256x240.png": "/library/jquery-ui-dist/images/ui-icons_555555_256x240.png",
@@ -1749,6 +1969,7 @@
     "/library/jquery-ui-dist/jquery-ui.structure.min.css": "/library/jquery-ui-dist/jquery-ui.structure.min.css",
     "/library/jquery-ui-dist/jquery-ui.theme.css": "/library/jquery-ui-dist/jquery-ui.theme.css",
     "/library/jquery-ui-dist/jquery-ui.theme.min.css": "/library/jquery-ui-dist/jquery-ui.theme.min.css",
+<<<<<<< HEAD
     "/library/jquery-ui-dist/package.json": "/library/jquery-ui-dist/package.json",
     "/library/jquery-sparkline/Changelog.txt": "/library/jquery-sparkline/Changelog.txt",
     "/library/jquery-sparkline/README.md": "/library/jquery-sparkline/README.md",
@@ -1756,6 +1977,17 @@
     "/library/jquery-sparkline/jquery.sparkline.js": "/library/jquery-sparkline/jquery.sparkline.js",
     "/library/jquery-sparkline/jquery.sparkline.min.js": "/library/jquery-sparkline/jquery.sparkline.min.js",
     "/library/jquery-sparkline/package.json": "/library/jquery-sparkline/package.json",
+=======
+    "/library/jquery-ui-dist/LICENSE.txt": "/library/jquery-ui-dist/LICENSE.txt",
+    "/library/jquery-ui-dist/package.json": "/library/jquery-ui-dist/package.json",
+    "/library/jquery-ui-dist/README.md": "/library/jquery-ui-dist/README.md",
+    "/library/jquery-sparkline/build.js": "/library/jquery-sparkline/build.js",
+    "/library/jquery-sparkline/Changelog.txt": "/library/jquery-sparkline/Changelog.txt",
+    "/library/jquery-sparkline/jquery.sparkline.js": "/library/jquery-sparkline/jquery.sparkline.js",
+    "/library/jquery-sparkline/jquery.sparkline.min.js": "/library/jquery-sparkline/jquery.sparkline.min.js",
+    "/library/jquery-sparkline/package.json": "/library/jquery-sparkline/package.json",
+    "/library/jquery-sparkline/README.md": "/library/jquery-sparkline/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/jquery-sparkline/src/base.js": "/library/jquery-sparkline/src/base.js",
     "/library/jquery-sparkline/src/chart-bar.js": "/library/jquery-sparkline/src/chart-bar.js",
     "/library/jquery-sparkline/src/chart-box.js": "/library/jquery-sparkline/src/chart-box.js",
@@ -1774,7 +2006,10 @@
     "/library/jquery-sparkline/src/vcanvas-base.js": "/library/jquery-sparkline/src/vcanvas-base.js",
     "/library/jquery-sparkline/src/vcanvas-canvas.js": "/library/jquery-sparkline/src/vcanvas-canvas.js",
     "/library/jquery-sparkline/src/vcanvas-vml.js": "/library/jquery-sparkline/src/vcanvas-vml.js",
+<<<<<<< HEAD
     "/library/popper.js/README.md": "/library/popper.js/README.md",
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/popper.js/dist/esm/popper-utils.js": "/library/popper.js/dist/esm/popper-utils.js",
     "/library/popper.js/dist/esm/popper-utils.js.map": "/library/popper.js/dist/esm/popper-utils.js.map",
     "/library/popper.js/dist/esm/popper-utils.min.js": "/library/popper.js/dist/esm/popper-utils.min.js",
@@ -1803,6 +2038,10 @@
     "/library/popper.js/index.d.ts": "/library/popper.js/index.d.ts",
     "/library/popper.js/index.js.flow": "/library/popper.js/index.js.flow",
     "/library/popper.js/package.json": "/library/popper.js/package.json",
+<<<<<<< HEAD
+=======
+    "/library/popper.js/README.md": "/library/popper.js/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/popper.js/src/index.js": "/library/popper.js/src/index.js",
     "/library/popper.js/src/methods/defaults.js": "/library/popper.js/src/methods/defaults.js",
     "/library/popper.js/src/methods/destroy.js": "/library/popper.js/src/methods/destroy.js",
@@ -1866,12 +2105,19 @@
     "/library/popper.js/src/utils/setAttributes.js": "/library/popper.js/src/utils/setAttributes.js",
     "/library/popper.js/src/utils/setStyles.js": "/library/popper.js/src/utils/setStyles.js",
     "/library/popper.js/src/utils/setupEventListeners.js": "/library/popper.js/src/utils/setupEventListeners.js",
+<<<<<<< HEAD
     "/library/jquery.nicescroll/README.md": "/library/jquery.nicescroll/README.md",
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/jquery.nicescroll/dist/jquery.nicescroll.js": "/library/jquery.nicescroll/dist/jquery.nicescroll.js",
     "/library/jquery.nicescroll/dist/jquery.nicescroll.min.js": "/library/jquery.nicescroll/dist/jquery.nicescroll.min.js",
     "/library/jquery.nicescroll/dist/zoomico.png": "/library/jquery.nicescroll/dist/zoomico.png",
     "/library/jquery.nicescroll/jquery.nicescroll.js": "/library/jquery.nicescroll/jquery.nicescroll.js",
     "/library/jquery.nicescroll/package.json": "/library/jquery.nicescroll/package.json",
+<<<<<<< HEAD
+=======
+    "/library/jquery.nicescroll/README.md": "/library/jquery.nicescroll/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/tooltip.js/dist/esm/tooltip.js": "/library/tooltip.js/dist/esm/tooltip.js",
     "/library/tooltip.js/dist/esm/tooltip.js.map": "/library/tooltip.js/dist/esm/tooltip.js.map",
     "/library/tooltip.js/dist/esm/tooltip.min.js": "/library/tooltip.js/dist/esm/tooltip.min.js",
@@ -1887,8 +2133,11 @@
     "/library/tooltip.js/index.d.ts": "/library/tooltip.js/index.d.ts",
     "/library/tooltip.js/package.json": "/library/tooltip.js/package.json",
     "/library/moment/CHANGELOG.md": "/library/moment/CHANGELOG.md",
+<<<<<<< HEAD
     "/library/moment/LICENSE": "/library/moment/LICENSE",
     "/library/moment/README.md": "/library/moment/README.md",
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/moment/dist/locale/af.js": "/library/moment/dist/locale/af.js",
     "/library/moment/dist/locale/ar-dz.js": "/library/moment/dist/locale/ar-dz.js",
     "/library/moment/dist/locale/ar-kw.js": "/library/moment/dist/locale/ar-kw.js",
@@ -2026,6 +2275,10 @@
     "/library/moment/dist/locale/zh-tw.js": "/library/moment/dist/locale/zh-tw.js",
     "/library/moment/dist/moment.js": "/library/moment/dist/moment.js",
     "/library/moment/ender.js": "/library/moment/ender.js",
+<<<<<<< HEAD
+=======
+    "/library/moment/LICENSE": "/library/moment/LICENSE",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/moment/locale/af.js": "/library/moment/locale/af.js",
     "/library/moment/locale/ar-dz.js": "/library/moment/locale/ar-dz.js",
     "/library/moment/locale/ar-kw.js": "/library/moment/locale/ar-kw.js",
@@ -2173,6 +2426,10 @@
     "/library/moment/moment.js": "/library/moment/moment.js",
     "/library/moment/package.js": "/library/moment/package.js",
     "/library/moment/package.json": "/library/moment/package.json",
+<<<<<<< HEAD
+=======
+    "/library/moment/README.md": "/library/moment/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/moment/src/lib/create/check-overflow.js": "/library/moment/src/lib/create/check-overflow.js",
     "/library/moment/src/lib/create/date-from-array.js": "/library/moment/src/lib/create/date-from-array.js",
     "/library/moment/src/lib/create/from-anything.js": "/library/moment/src/lib/create/from-anything.js",
@@ -2419,7 +2676,10 @@
     "/library/moment/src/locale/zh-tw.js": "/library/moment/src/locale/zh-tw.js",
     "/library/moment/src/moment.js": "/library/moment/src/moment.js",
     "/library/moment/ts3.1-typings/moment.d.ts": "/library/moment/ts3.1-typings/moment.d.ts",
+<<<<<<< HEAD
     "/library/chocolat/LICENSE": "/library/chocolat/LICENSE",
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/chocolat/bower.json": "/library/chocolat/bower.json",
     "/library/chocolat/dist/css/chocolat.css": "/library/chocolat/dist/css/chocolat.css",
     "/library/chocolat/dist/demo-images/1.jpg": "/library/chocolat/dist/demo-images/1.jpg",
@@ -2440,6 +2700,10 @@
     "/library/chocolat/dist/js/jquery.chocolat.js": "/library/chocolat/dist/js/jquery.chocolat.js",
     "/library/chocolat/dist/js/jquery.chocolat.min.js": "/library/chocolat/dist/js/jquery.chocolat.min.js",
     "/library/chocolat/gulpfile.js": "/library/chocolat/gulpfile.js",
+<<<<<<< HEAD
+=======
+    "/library/chocolat/LICENSE": "/library/chocolat/LICENSE",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/chocolat/package.json": "/library/chocolat/package.json",
     "/library/chocolat/readme.md": "/library/chocolat/readme.md",
     "/library/chocolat/src/css/chocolat.css": "/library/chocolat/src/css/chocolat.css",
@@ -2457,8 +2721,11 @@
     "/library/chocolat/test/lib/sinon.js": "/library/chocolat/test/lib/sinon.js",
     "/library/chocolat/test/test.chocolat.js": "/library/chocolat/test/test.chocolat.js",
     "/library/chocolat/yarn.lock": "/library/chocolat/yarn.lock",
+<<<<<<< HEAD
     "/library/chart.js/LICENSE.md": "/library/chart.js/LICENSE.md",
     "/library/chart.js/README.md": "/library/chart.js/README.md",
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/chart.js/bower.json": "/library/chart.js/bower.json",
     "/library/chart.js/composer.json": "/library/chart.js/composer.json",
     "/library/chart.js/dist/Chart.bundle.js": "/library/chart.js/dist/Chart.bundle.js",
@@ -2467,21 +2734,37 @@
     "/library/chart.js/dist/Chart.js": "/library/chart.js/dist/Chart.js",
     "/library/chart.js/dist/Chart.min.css": "/library/chart.js/dist/Chart.min.css",
     "/library/chart.js/dist/Chart.min.js": "/library/chart.js/dist/Chart.min.js",
+<<<<<<< HEAD
     "/library/chart.js/package.json": "/library/chart.js/package.json",
     "/library/simpleweather/CHANGELOG.md": "/library/simpleweather/CHANGELOG.md",
     "/library/simpleweather/MIT-LICENSE.txt": "/library/simpleweather/MIT-LICENSE.txt",
     "/library/simpleweather/README.md": "/library/simpleweather/README.md",
     "/library/simpleweather/bower.json": "/library/simpleweather/bower.json",
+=======
+    "/library/chart.js/LICENSE.md": "/library/chart.js/LICENSE.md",
+    "/library/chart.js/package.json": "/library/chart.js/package.json",
+    "/library/chart.js/README.md": "/library/chart.js/README.md",
+    "/library/simpleweather/bower.json": "/library/simpleweather/bower.json",
+    "/library/simpleweather/CHANGELOG.md": "/library/simpleweather/CHANGELOG.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/simpleweather/component.json": "/library/simpleweather/component.json",
     "/library/simpleweather/gulpfile.js": "/library/simpleweather/gulpfile.js",
     "/library/simpleweather/index.html": "/library/simpleweather/index.html",
     "/library/simpleweather/jquery.simpleWeather.js": "/library/simpleweather/jquery.simpleWeather.js",
     "/library/simpleweather/jquery.simpleWeather.min.js": "/library/simpleweather/jquery.simpleWeather.min.js",
+<<<<<<< HEAD
     "/library/simpleweather/package.json": "/library/simpleweather/package.json",
     "/library/simpleweather/simpleweather.jquery.json": "/library/simpleweather/simpleweather.jquery.json",
     "/library/prismjs/CHANGELOG.md": "/library/prismjs/CHANGELOG.md",
     "/library/prismjs/LICENSE": "/library/prismjs/LICENSE",
     "/library/prismjs/README.md": "/library/prismjs/README.md",
+=======
+    "/library/simpleweather/MIT-LICENSE.txt": "/library/simpleweather/MIT-LICENSE.txt",
+    "/library/simpleweather/package.json": "/library/simpleweather/package.json",
+    "/library/simpleweather/README.md": "/library/simpleweather/README.md",
+    "/library/simpleweather/simpleweather.jquery.json": "/library/simpleweather/simpleweather.jquery.json",
+    "/library/prismjs/CHANGELOG.md": "/library/prismjs/CHANGELOG.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/prismjs/components/index.js": "/library/prismjs/components/index.js",
     "/library/prismjs/components/prism-abap.js": "/library/prismjs/components/prism-abap.js",
     "/library/prismjs/components/prism-abap.min.js": "/library/prismjs/components/prism-abap.min.js",
@@ -3068,6 +3351,10 @@
     "/library/prismjs/components.js": "/library/prismjs/components.js",
     "/library/prismjs/components.json": "/library/prismjs/components.json",
     "/library/prismjs/dependencies.js": "/library/prismjs/dependencies.js",
+<<<<<<< HEAD
+=======
+    "/library/prismjs/LICENSE": "/library/prismjs/LICENSE",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/prismjs/package.json": "/library/prismjs/package.json",
     "/library/prismjs/plugins/autolinker/prism-autolinker.css": "/library/prismjs/plugins/autolinker/prism-autolinker.css",
     "/library/prismjs/plugins/autolinker/prism-autolinker.js": "/library/prismjs/plugins/autolinker/prism-autolinker.js",
@@ -3148,6 +3435,10 @@
     "/library/prismjs/plugins/wpd/prism-wpd.min.css": "/library/prismjs/plugins/wpd/prism-wpd.min.css",
     "/library/prismjs/plugins/wpd/prism-wpd.min.js": "/library/prismjs/plugins/wpd/prism-wpd.min.js",
     "/library/prismjs/prism.js": "/library/prismjs/prism.js",
+<<<<<<< HEAD
+=======
+    "/library/prismjs/README.md": "/library/prismjs/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/prismjs/themes/prism-coy.css": "/library/prismjs/themes/prism-coy.css",
     "/library/prismjs/themes/prism-coy.min.css": "/library/prismjs/themes/prism-coy.min.css",
     "/library/prismjs/themes/prism-dark.css": "/library/prismjs/themes/prism-dark.css",
@@ -3166,8 +3457,11 @@
     "/library/prismjs/themes/prism.min.css": "/library/prismjs/themes/prism.min.css",
     "/library/dropzone/CHANGELOG.md": "/library/dropzone/CHANGELOG.md",
     "/library/dropzone/CODE_OF_CONDUCT.md": "/library/dropzone/CODE_OF_CONDUCT.md",
+<<<<<<< HEAD
     "/library/dropzone/LICENSE": "/library/dropzone/LICENSE",
     "/library/dropzone/README.md": "/library/dropzone/README.md",
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/dropzone/composer.json": "/library/dropzone/composer.json",
     "/library/dropzone/dist/basic.css": "/library/dropzone/dist/basic.css",
     "/library/dropzone/dist/dropzone-amd-module.js": "/library/dropzone/dist/dropzone-amd-module.js",
@@ -3177,24 +3471,40 @@
     "/library/dropzone/dist/min/dropzone-amd-module.min.js": "/library/dropzone/dist/min/dropzone-amd-module.min.js",
     "/library/dropzone/dist/min/dropzone.min.css": "/library/dropzone/dist/min/dropzone.min.css",
     "/library/dropzone/dist/min/dropzone.min.js": "/library/dropzone/dist/min/dropzone.min.js",
+<<<<<<< HEAD
     "/library/dropzone/package.json": "/library/dropzone/package.json",
+=======
+    "/library/dropzone/LICENSE": "/library/dropzone/LICENSE",
+    "/library/dropzone/package.json": "/library/dropzone/package.json",
+    "/library/dropzone/README.md": "/library/dropzone/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/dropzone/src/basic.scss": "/library/dropzone/src/basic.scss",
     "/library/dropzone/src/dropzone.js": "/library/dropzone/src/dropzone.js",
     "/library/dropzone/src/dropzone.scss": "/library/dropzone/src/dropzone.scss",
     "/library/dropzone/src/emitter.js": "/library/dropzone/src/emitter.js",
     "/library/dropzone/src/options.js": "/library/dropzone/src/options.js",
     "/library/dropzone/src/preview-template.html": "/library/dropzone/src/preview-template.html",
+<<<<<<< HEAD
     "/library/bootstrap-social/LICENSE": "/library/bootstrap-social/LICENSE",
     "/library/bootstrap-social/README.md": "/library/bootstrap-social/README.md",
     "/library/bootstrap-social/assets/css/bootstrap.css": "/library/bootstrap-social/assets/css/bootstrap.css",
     "/library/bootstrap-social/assets/css/docs.css": "/library/bootstrap-social/assets/css/docs.css",
     "/library/bootstrap-social/assets/css/font-awesome.css": "/library/bootstrap-social/assets/css/font-awesome.css",
     "/library/bootstrap-social/assets/fonts/FontAwesome.otf": "/library/bootstrap-social/assets/fonts/FontAwesome.otf",
+=======
+    "/library/bootstrap-social/assets/css/bootstrap.css": "/library/bootstrap-social/assets/css/bootstrap.css",
+    "/library/bootstrap-social/assets/css/docs.css": "/library/bootstrap-social/assets/css/docs.css",
+    "/library/bootstrap-social/assets/css/font-awesome.css": "/library/bootstrap-social/assets/css/font-awesome.css",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/bootstrap-social/assets/fonts/fontawesome-webfont.eot": "/library/bootstrap-social/assets/fonts/fontawesome-webfont.eot",
     "/library/bootstrap-social/assets/fonts/fontawesome-webfont.svg": "/library/bootstrap-social/assets/fonts/fontawesome-webfont.svg",
     "/library/bootstrap-social/assets/fonts/fontawesome-webfont.ttf": "/library/bootstrap-social/assets/fonts/fontawesome-webfont.ttf",
     "/library/bootstrap-social/assets/fonts/fontawesome-webfont.woff": "/library/bootstrap-social/assets/fonts/fontawesome-webfont.woff",
     "/library/bootstrap-social/assets/fonts/fontawesome-webfont.woff2": "/library/bootstrap-social/assets/fonts/fontawesome-webfont.woff2",
+<<<<<<< HEAD
+=======
+    "/library/bootstrap-social/assets/fonts/FontAwesome.otf": "/library/bootstrap-social/assets/fonts/FontAwesome.otf",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/bootstrap-social/assets/img/bootstrap-social.png": "/library/bootstrap-social/assets/img/bootstrap-social.png",
     "/library/bootstrap-social/assets/js/docs.js": "/library/bootstrap-social/assets/js/docs.js",
     "/library/bootstrap-social/assets/js/jquery.js": "/library/bootstrap-social/assets/js/jquery.js",
@@ -3203,10 +3513,15 @@
     "/library/bootstrap-social/bootstrap-social.scss": "/library/bootstrap-social/bootstrap-social.scss",
     "/library/bootstrap-social/bower.json": "/library/bootstrap-social/bower.json",
     "/library/bootstrap-social/index.html": "/library/bootstrap-social/index.html",
+<<<<<<< HEAD
     "/library/bootstrap-social/node_modules/bootstrap/CHANGELOG.md": "/library/bootstrap-social/node_modules/bootstrap/CHANGELOG.md",
     "/library/bootstrap-social/node_modules/bootstrap/Gruntfile.js": "/library/bootstrap-social/node_modules/bootstrap/Gruntfile.js",
     "/library/bootstrap-social/node_modules/bootstrap/LICENSE": "/library/bootstrap-social/node_modules/bootstrap/LICENSE",
     "/library/bootstrap-social/node_modules/bootstrap/README.md": "/library/bootstrap-social/node_modules/bootstrap/README.md",
+=======
+    "/library/bootstrap-social/LICENSE": "/library/bootstrap-social/LICENSE",
+    "/library/bootstrap-social/node_modules/bootstrap/CHANGELOG.md": "/library/bootstrap-social/node_modules/bootstrap/CHANGELOG.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/bootstrap-social/node_modules/bootstrap/dist/css/bootstrap-theme.css": "/library/bootstrap-social/node_modules/bootstrap/dist/css/bootstrap-theme.css",
     "/library/bootstrap-social/node_modules/bootstrap/dist/css/bootstrap-theme.css.map": "/library/bootstrap-social/node_modules/bootstrap/dist/css/bootstrap-theme.css.map",
     "/library/bootstrap-social/node_modules/bootstrap/dist/css/bootstrap-theme.min.css": "/library/bootstrap-social/node_modules/bootstrap/dist/css/bootstrap-theme.min.css",
@@ -3237,6 +3552,10 @@
     "/library/bootstrap-social/node_modules/bootstrap/grunt/configBridge.json": "/library/bootstrap-social/node_modules/bootstrap/grunt/configBridge.json",
     "/library/bootstrap-social/node_modules/bootstrap/grunt/generate-sri.js": "/library/bootstrap-social/node_modules/bootstrap/grunt/generate-sri.js",
     "/library/bootstrap-social/node_modules/bootstrap/grunt/karma.conf.js": "/library/bootstrap-social/node_modules/bootstrap/grunt/karma.conf.js",
+<<<<<<< HEAD
+=======
+    "/library/bootstrap-social/node_modules/bootstrap/Gruntfile.js": "/library/bootstrap-social/node_modules/bootstrap/Gruntfile.js",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/bootstrap-social/node_modules/bootstrap/js/affix.js": "/library/bootstrap-social/node_modules/bootstrap/js/affix.js",
     "/library/bootstrap-social/node_modules/bootstrap/js/alert.js": "/library/bootstrap-social/node_modules/bootstrap/js/alert.js",
     "/library/bootstrap-social/node_modules/bootstrap/js/button.js": "/library/bootstrap-social/node_modules/bootstrap/js/button.js",
@@ -3320,10 +3639,18 @@
     "/library/bootstrap-social/node_modules/bootstrap/less/utilities.less": "/library/bootstrap-social/node_modules/bootstrap/less/utilities.less",
     "/library/bootstrap-social/node_modules/bootstrap/less/variables.less": "/library/bootstrap-social/node_modules/bootstrap/less/variables.less",
     "/library/bootstrap-social/node_modules/bootstrap/less/wells.less": "/library/bootstrap-social/node_modules/bootstrap/less/wells.less",
+<<<<<<< HEAD
     "/library/bootstrap-social/node_modules/bootstrap/package.json": "/library/bootstrap-social/node_modules/bootstrap/package.json",
     "/library/bootstrap-social/package.json": "/library/bootstrap-social/package.json",
     "/library/cleave.js/LICENSE": "/library/cleave.js/LICENSE",
     "/library/cleave.js/README.md": "/library/cleave.js/README.md",
+=======
+    "/library/bootstrap-social/node_modules/bootstrap/LICENSE": "/library/bootstrap-social/node_modules/bootstrap/LICENSE",
+    "/library/bootstrap-social/node_modules/bootstrap/package.json": "/library/bootstrap-social/node_modules/bootstrap/package.json",
+    "/library/bootstrap-social/node_modules/bootstrap/README.md": "/library/bootstrap-social/node_modules/bootstrap/README.md",
+    "/library/bootstrap-social/package.json": "/library/bootstrap-social/package.json",
+    "/library/bootstrap-social/README.md": "/library/bootstrap-social/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/cleave.js/dist/addons/cleave-phone.ac.js": "/library/cleave.js/dist/addons/cleave-phone.ac.js",
     "/library/cleave.js/dist/addons/cleave-phone.ad.js": "/library/cleave.js/dist/addons/cleave-phone.ad.js",
     "/library/cleave.js/dist/addons/cleave-phone.ae.js": "/library/cleave.js/dist/addons/cleave-phone.ae.js",
@@ -3581,11 +3908,18 @@
     "/library/cleave.js/dist/cleave-react.min.js": "/library/cleave.js/dist/cleave-react.min.js",
     "/library/cleave.js/dist/cleave.js": "/library/cleave.js/dist/cleave.js",
     "/library/cleave.js/dist/cleave.min.js": "/library/cleave.js/dist/cleave.min.js",
+<<<<<<< HEAD
     "/library/cleave.js/package.json": "/library/cleave.js/package.json",
     "/library/cleave.js/react.js": "/library/cleave.js/react.js",
     "/library/cleave.js/src/Cleave.angular.js": "/library/cleave.js/src/Cleave.angular.js",
     "/library/cleave.js/src/Cleave.js": "/library/cleave.js/src/Cleave.js",
     "/library/cleave.js/src/Cleave.react.js": "/library/cleave.js/src/Cleave.react.js",
+=======
+    "/library/cleave.js/LICENSE": "/library/cleave.js/LICENSE",
+    "/library/cleave.js/package.json": "/library/cleave.js/package.json",
+    "/library/cleave.js/react.js": "/library/cleave.js/react.js",
+    "/library/cleave.js/README.md": "/library/cleave.js/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/cleave.js/src/addons/phone-type-formatter.ac.js": "/library/cleave.js/src/addons/phone-type-formatter.ac.js",
     "/library/cleave.js/src/addons/phone-type-formatter.ad.js": "/library/cleave.js/src/addons/phone-type-formatter.ad.js",
     "/library/cleave.js/src/addons/phone-type-formatter.ae.js": "/library/cleave.js/src/addons/phone-type-formatter.ae.js",
@@ -3834,6 +4168,12 @@
     "/library/cleave.js/src/addons/phone-type-formatter.zm.js": "/library/cleave.js/src/addons/phone-type-formatter.zm.js",
     "/library/cleave.js/src/addons/phone-type-formatter.zw.js": "/library/cleave.js/src/addons/phone-type-formatter.zw.js",
     "/library/cleave.js/src/build/license.txt": "/library/cleave.js/src/build/license.txt",
+<<<<<<< HEAD
+=======
+    "/library/cleave.js/src/Cleave.angular.js": "/library/cleave.js/src/Cleave.angular.js",
+    "/library/cleave.js/src/Cleave.js": "/library/cleave.js/src/Cleave.js",
+    "/library/cleave.js/src/Cleave.react.js": "/library/cleave.js/src/Cleave.react.js",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/cleave.js/src/common/DefaultProperties.js": "/library/cleave.js/src/common/DefaultProperties.js",
     "/library/cleave.js/src/shortcuts/CreditCardDetector.js": "/library/cleave.js/src/shortcuts/CreditCardDetector.js",
     "/library/cleave.js/src/shortcuts/DateFormatter.js": "/library/cleave.js/src/shortcuts/DateFormatter.js",
@@ -3841,7 +4181,10 @@
     "/library/cleave.js/src/shortcuts/PhoneFormatter.js": "/library/cleave.js/src/shortcuts/PhoneFormatter.js",
     "/library/cleave.js/src/shortcuts/TimeFormatter.js": "/library/cleave.js/src/shortcuts/TimeFormatter.js",
     "/library/cleave.js/src/utils/Util.js": "/library/cleave.js/src/utils/Util.js",
+<<<<<<< HEAD
     "/library/bootstrap-daterangepicker/README.md": "/library/bootstrap-daterangepicker/README.md",
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/bootstrap-daterangepicker/bower.json": "/library/bootstrap-daterangepicker/bower.json",
     "/library/bootstrap-daterangepicker/daterangepicker.css": "/library/bootstrap-daterangepicker/daterangepicker.css",
     "/library/bootstrap-daterangepicker/daterangepicker.js": "/library/bootstrap-daterangepicker/daterangepicker.js",
@@ -3850,22 +4193,36 @@
     "/library/bootstrap-daterangepicker/example/amd/index.html": "/library/bootstrap-daterangepicker/example/amd/index.html",
     "/library/bootstrap-daterangepicker/example/amd/main.js": "/library/bootstrap-daterangepicker/example/amd/main.js",
     "/library/bootstrap-daterangepicker/example/amd/require.js": "/library/bootstrap-daterangepicker/example/amd/require.js",
+<<<<<<< HEAD
     "/library/bootstrap-daterangepicker/example/browserify/README.md": "/library/bootstrap-daterangepicker/example/browserify/README.md",
     "/library/bootstrap-daterangepicker/example/browserify/bundle.js": "/library/bootstrap-daterangepicker/example/browserify/bundle.js",
     "/library/bootstrap-daterangepicker/example/browserify/index.html": "/library/bootstrap-daterangepicker/example/browserify/index.html",
     "/library/bootstrap-daterangepicker/example/browserify/main.js": "/library/bootstrap-daterangepicker/example/browserify/main.js",
+=======
+    "/library/bootstrap-daterangepicker/example/browserify/bundle.js": "/library/bootstrap-daterangepicker/example/browserify/bundle.js",
+    "/library/bootstrap-daterangepicker/example/browserify/index.html": "/library/bootstrap-daterangepicker/example/browserify/index.html",
+    "/library/bootstrap-daterangepicker/example/browserify/main.js": "/library/bootstrap-daterangepicker/example/browserify/main.js",
+    "/library/bootstrap-daterangepicker/example/browserify/README.md": "/library/bootstrap-daterangepicker/example/browserify/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/bootstrap-daterangepicker/index.html": "/library/bootstrap-daterangepicker/index.html",
     "/library/bootstrap-daterangepicker/moment.min.js": "/library/bootstrap-daterangepicker/moment.min.js",
     "/library/bootstrap-daterangepicker/package.js": "/library/bootstrap-daterangepicker/package.js",
     "/library/bootstrap-daterangepicker/package.json": "/library/bootstrap-daterangepicker/package.json",
+<<<<<<< HEAD
+=======
+    "/library/bootstrap-daterangepicker/README.md": "/library/bootstrap-daterangepicker/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/bootstrap-daterangepicker/test.html": "/library/bootstrap-daterangepicker/test.html",
     "/library/bootstrap-daterangepicker/website/index.html": "/library/bootstrap-daterangepicker/website/index.html",
     "/library/bootstrap-daterangepicker/website/website.css": "/library/bootstrap-daterangepicker/website/website.css",
     "/library/bootstrap-daterangepicker/website/website.js": "/library/bootstrap-daterangepicker/website/website.js",
     "/library/bootstrap-daterangepicker/website.css": "/library/bootstrap-daterangepicker/website.css",
     "/library/bootstrap-daterangepicker/website.js": "/library/bootstrap-daterangepicker/website.js",
+<<<<<<< HEAD
     "/library/bootstrap-colorpicker/LICENSE": "/library/bootstrap-colorpicker/LICENSE",
     "/library/bootstrap-colorpicker/README.md": "/library/bootstrap-colorpicker/README.md",
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/bootstrap-colorpicker/dist/css/bootstrap-colorpicker.css": "/library/bootstrap-colorpicker/dist/css/bootstrap-colorpicker.css",
     "/library/bootstrap-colorpicker/dist/css/bootstrap-colorpicker.css.map": "/library/bootstrap-colorpicker/dist/css/bootstrap-colorpicker.css.map",
     "/library/bootstrap-colorpicker/dist/css/bootstrap-colorpicker.min.css": "/library/bootstrap-colorpicker/dist/css/bootstrap-colorpicker.min.css",
@@ -3874,13 +4231,21 @@
     "/library/bootstrap-colorpicker/dist/js/bootstrap-colorpicker.js.map": "/library/bootstrap-colorpicker/dist/js/bootstrap-colorpicker.js.map",
     "/library/bootstrap-colorpicker/dist/js/bootstrap-colorpicker.min.js": "/library/bootstrap-colorpicker/dist/js/bootstrap-colorpicker.min.js",
     "/library/bootstrap-colorpicker/dist/js/bootstrap-colorpicker.min.js.map": "/library/bootstrap-colorpicker/dist/js/bootstrap-colorpicker.min.js.map",
+<<<<<<< HEAD
     "/library/bootstrap-colorpicker/logo.png": "/library/bootstrap-colorpicker/logo.png",
     "/library/bootstrap-colorpicker/package.json": "/library/bootstrap-colorpicker/package.json",
+=======
+    "/library/bootstrap-colorpicker/LICENSE": "/library/bootstrap-colorpicker/LICENSE",
+    "/library/bootstrap-colorpicker/logo.png": "/library/bootstrap-colorpicker/logo.png",
+    "/library/bootstrap-colorpicker/package.json": "/library/bootstrap-colorpicker/package.json",
+    "/library/bootstrap-colorpicker/README.md": "/library/bootstrap-colorpicker/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/bootstrap-colorpicker/src/js/AddonHandler.js": "/library/bootstrap-colorpicker/src/js/AddonHandler.js",
     "/library/bootstrap-colorpicker/src/js/ColorHandler.js": "/library/bootstrap-colorpicker/src/js/ColorHandler.js",
     "/library/bootstrap-colorpicker/src/js/ColorItem.js": "/library/bootstrap-colorpicker/src/js/ColorItem.js",
     "/library/bootstrap-colorpicker/src/js/Colorpicker.js": "/library/bootstrap-colorpicker/src/js/Colorpicker.js",
     "/library/bootstrap-colorpicker/src/js/Extension.js": "/library/bootstrap-colorpicker/src/js/Extension.js",
+<<<<<<< HEAD
     "/library/bootstrap-colorpicker/src/js/InputHandler.js": "/library/bootstrap-colorpicker/src/js/InputHandler.js",
     "/library/bootstrap-colorpicker/src/js/PickerHandler.js": "/library/bootstrap-colorpicker/src/js/PickerHandler.js",
     "/library/bootstrap-colorpicker/src/js/PopupHandler.js": "/library/bootstrap-colorpicker/src/js/PopupHandler.js",
@@ -3896,15 +4261,36 @@
     "/library/bootstrap-timepicker/CHANGELOG.md": "/library/bootstrap-timepicker/CHANGELOG.md",
     "/library/bootstrap-timepicker/LICENSE": "/library/bootstrap-timepicker/LICENSE",
     "/library/bootstrap-timepicker/README.md": "/library/bootstrap-timepicker/README.md",
+=======
+    "/library/bootstrap-colorpicker/src/js/extensions/Debugger.js": "/library/bootstrap-colorpicker/src/js/extensions/Debugger.js",
+    "/library/bootstrap-colorpicker/src/js/extensions/index.js": "/library/bootstrap-colorpicker/src/js/extensions/index.js",
+    "/library/bootstrap-colorpicker/src/js/extensions/Palette.js": "/library/bootstrap-colorpicker/src/js/extensions/Palette.js",
+    "/library/bootstrap-colorpicker/src/js/extensions/Preview.js": "/library/bootstrap-colorpicker/src/js/extensions/Preview.js",
+    "/library/bootstrap-colorpicker/src/js/extensions/Swatches.js": "/library/bootstrap-colorpicker/src/js/extensions/Swatches.js",
+    "/library/bootstrap-colorpicker/src/js/InputHandler.js": "/library/bootstrap-colorpicker/src/js/InputHandler.js",
+    "/library/bootstrap-colorpicker/src/js/options.js": "/library/bootstrap-colorpicker/src/js/options.js",
+    "/library/bootstrap-colorpicker/src/js/PickerHandler.js": "/library/bootstrap-colorpicker/src/js/PickerHandler.js",
+    "/library/bootstrap-colorpicker/src/js/plugin.js": "/library/bootstrap-colorpicker/src/js/plugin.js",
+    "/library/bootstrap-colorpicker/src/js/PopupHandler.js": "/library/bootstrap-colorpicker/src/js/PopupHandler.js",
+    "/library/bootstrap-colorpicker/src/js/SliderHandler.js": "/library/bootstrap-colorpicker/src/js/SliderHandler.js",
+    "/library/bootstrap-colorpicker/src/sass/colorpicker.scss": "/library/bootstrap-colorpicker/src/sass/colorpicker.scss",
+    "/library/bootstrap-timepicker/CHANGELOG.md": "/library/bootstrap-timepicker/CHANGELOG.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/bootstrap-timepicker/css/bootstrap-timepicker.css": "/library/bootstrap-timepicker/css/bootstrap-timepicker.css",
     "/library/bootstrap-timepicker/css/bootstrap-timepicker.min.css": "/library/bootstrap-timepicker/css/bootstrap-timepicker.min.css",
     "/library/bootstrap-timepicker/css/timepicker.less": "/library/bootstrap-timepicker/css/timepicker.less",
     "/library/bootstrap-timepicker/js/bootstrap-timepicker.js": "/library/bootstrap-timepicker/js/bootstrap-timepicker.js",
     "/library/bootstrap-timepicker/js/bootstrap-timepicker.min.js": "/library/bootstrap-timepicker/js/bootstrap-timepicker.min.js",
+<<<<<<< HEAD
     "/library/bootstrap-timepicker/package.json": "/library/bootstrap-timepicker/package.json",
     "/library/bootstrap-tagsinput/Gruntfile.js": "/library/bootstrap-tagsinput/Gruntfile.js",
     "/library/bootstrap-tagsinput/LICENSE": "/library/bootstrap-tagsinput/LICENSE",
     "/library/bootstrap-tagsinput/README.md": "/library/bootstrap-tagsinput/README.md",
+=======
+    "/library/bootstrap-timepicker/LICENSE": "/library/bootstrap-timepicker/LICENSE",
+    "/library/bootstrap-timepicker/package.json": "/library/bootstrap-timepicker/package.json",
+    "/library/bootstrap-timepicker/README.md": "/library/bootstrap-timepicker/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/bootstrap-tagsinput/bootstrap-tagsinput.jquery.json": "/library/bootstrap-tagsinput/bootstrap-tagsinput.jquery.json",
     "/library/bootstrap-tagsinput/bower.json": "/library/bootstrap-tagsinput/bower.json",
     "/library/bootstrap-tagsinput/dist/bootstrap-tagsinput-angular.js": "/library/bootstrap-tagsinput/dist/bootstrap-tagsinput-angular.js",
@@ -3925,8 +4311,16 @@
     "/library/bootstrap-tagsinput/examples/assets/citynames.json": "/library/bootstrap-tagsinput/examples/assets/citynames.json",
     "/library/bootstrap-tagsinput/examples/bootstrap-2.3.2.html": "/library/bootstrap-tagsinput/examples/bootstrap-2.3.2.html",
     "/library/bootstrap-tagsinput/examples/index.html": "/library/bootstrap-tagsinput/examples/index.html",
+<<<<<<< HEAD
     "/library/bootstrap-tagsinput/karma.conf.js": "/library/bootstrap-tagsinput/karma.conf.js",
     "/library/bootstrap-tagsinput/package.json": "/library/bootstrap-tagsinput/package.json",
+=======
+    "/library/bootstrap-tagsinput/Gruntfile.js": "/library/bootstrap-tagsinput/Gruntfile.js",
+    "/library/bootstrap-tagsinput/karma.conf.js": "/library/bootstrap-tagsinput/karma.conf.js",
+    "/library/bootstrap-tagsinput/LICENSE": "/library/bootstrap-tagsinput/LICENSE",
+    "/library/bootstrap-tagsinput/package.json": "/library/bootstrap-tagsinput/package.json",
+    "/library/bootstrap-tagsinput/README.md": "/library/bootstrap-tagsinput/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/bootstrap-tagsinput/src/bootstrap-tagsinput-angular.js": "/library/bootstrap-tagsinput/src/bootstrap-tagsinput-angular.js",
     "/library/bootstrap-tagsinput/src/bootstrap-tagsinput-typeahead.css": "/library/bootstrap-tagsinput/src/bootstrap-tagsinput-typeahead.css",
     "/library/bootstrap-tagsinput/src/bootstrap-tagsinput.css": "/library/bootstrap-tagsinput/src/bootstrap-tagsinput.css",
@@ -3941,8 +4335,11 @@
     "/library/bootstrap-tagsinput/test/helpers.js": "/library/bootstrap-tagsinput/test/helpers.js",
     "/library/bootstrap-tagsinput/test/index.html": "/library/bootstrap-tagsinput/test/index.html",
     "/library/select2/CHANGELOG.md": "/library/select2/CHANGELOG.md",
+<<<<<<< HEAD
     "/library/select2/LICENSE.md": "/library/select2/LICENSE.md",
     "/library/select2/README.md": "/library/select2/README.md",
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/select2/dist/css/select2.css": "/library/select2/dist/css/select2.css",
     "/library/select2/dist/css/select2.min.css": "/library/select2/dist/css/select2.min.css",
     "/library/select2/dist/js/i18n/af.js": "/library/select2/dist/js/i18n/af.js",
@@ -4009,7 +4406,13 @@
     "/library/select2/dist/js/select2.full.min.js": "/library/select2/dist/js/select2.full.min.js",
     "/library/select2/dist/js/select2.js": "/library/select2/dist/js/select2.js",
     "/library/select2/dist/js/select2.min.js": "/library/select2/dist/js/select2.min.js",
+<<<<<<< HEAD
     "/library/select2/package.json": "/library/select2/package.json",
+=======
+    "/library/select2/LICENSE.md": "/library/select2/LICENSE.md",
+    "/library/select2/package.json": "/library/select2/package.json",
+    "/library/select2/README.md": "/library/select2/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/select2/src/js/banner.end.js": "/library/select2/src/js/banner.end.js",
     "/library/select2/src/js/banner.start.js": "/library/select2/src/js/banner.start.js",
     "/library/select2/src/js/jquery.mousewheel.shim.js": "/library/select2/src/js/jquery.mousewheel.shim.js",
@@ -4119,6 +4522,7 @@
     "/library/select2/src/js/select2/utils.js": "/library/select2/src/js/select2/utils.js",
     "/library/select2/src/js/wrapper.end.js": "/library/select2/src/js/wrapper.end.js",
     "/library/select2/src/js/wrapper.start.js": "/library/select2/src/js/wrapper.start.js",
+<<<<<<< HEAD
     "/library/select2/src/scss/_dropdown.scss": "/library/select2/src/scss/_dropdown.scss",
     "/library/select2/src/scss/_multiple.scss": "/library/select2/src/scss/_multiple.scss",
     "/library/select2/src/scss/_single.scss": "/library/select2/src/scss/_single.scss",
@@ -4139,6 +4543,27 @@
     "/library/selectric/package.json": "/library/selectric/package.json",
     "/library/selectric/public/CNAME": "/library/selectric/public/CNAME",
     "/library/selectric/public/ajax.html": "/library/selectric/public/ajax.html",
+=======
+    "/library/select2/src/scss/core.scss": "/library/select2/src/scss/core.scss",
+    "/library/select2/src/scss/mixins/_gradients.scss": "/library/select2/src/scss/mixins/_gradients.scss",
+    "/library/select2/src/scss/theme/classic/layout.scss": "/library/select2/src/scss/theme/classic/layout.scss",
+    "/library/select2/src/scss/theme/classic/_defaults.scss": "/library/select2/src/scss/theme/classic/_defaults.scss",
+    "/library/select2/src/scss/theme/classic/_multiple.scss": "/library/select2/src/scss/theme/classic/_multiple.scss",
+    "/library/select2/src/scss/theme/classic/_single.scss": "/library/select2/src/scss/theme/classic/_single.scss",
+    "/library/select2/src/scss/theme/default/layout.scss": "/library/select2/src/scss/theme/default/layout.scss",
+    "/library/select2/src/scss/theme/default/_multiple.scss": "/library/select2/src/scss/theme/default/_multiple.scss",
+    "/library/select2/src/scss/theme/default/_single.scss": "/library/select2/src/scss/theme/default/_single.scss",
+    "/library/select2/src/scss/_dropdown.scss": "/library/select2/src/scss/_dropdown.scss",
+    "/library/select2/src/scss/_multiple.scss": "/library/select2/src/scss/_multiple.scss",
+    "/library/select2/src/scss/_single.scss": "/library/select2/src/scss/_single.scss",
+    "/library/selectric/bower.json": "/library/selectric/bower.json",
+    "/library/selectric/gulpfile.js": "/library/selectric/gulpfile.js",
+    "/library/selectric/karma.conf.js": "/library/selectric/karma.conf.js",
+    "/library/selectric/LICENSE": "/library/selectric/LICENSE",
+    "/library/selectric/package.json": "/library/selectric/package.json",
+    "/library/selectric/public/ajax.html": "/library/selectric/public/ajax.html",
+    "/library/selectric/public/CNAME": "/library/selectric/public/CNAME",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/selectric/public/customoptions.css": "/library/selectric/public/customoptions.css",
     "/library/selectric/public/demo.html": "/library/selectric/public/demo.html",
     "/library/selectric/public/favicon.ico": "/library/selectric/public/favicon.ico",
@@ -4175,6 +4600,10 @@
     "/library/selectric/public/themes/plus/selectric.css": "/library/selectric/public/themes/plus/selectric.css",
     "/library/selectric/public/themes/square/selectric.css": "/library/selectric/public/themes/square/selectric.css",
     "/library/selectric/public/themes/template/selectric.css": "/library/selectric/public/themes/template/selectric.css",
+<<<<<<< HEAD
+=======
+    "/library/selectric/README.md": "/library/selectric/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/selectric/selectric.jquery.json": "/library/selectric/selectric.jquery.json",
     "/library/selectric/selectric_v1.13.0.zip": "/library/selectric/selectric_v1.13.0.zip",
     "/library/selectric/src/jquery.selectric.js": "/library/selectric/src/jquery.selectric.js",
@@ -4201,11 +4630,14 @@
     "/library/selectric/test/multiple.spec.js": "/library/selectric/test/multiple.spec.js",
     "/library/selectric/test/options.spec.js": "/library/selectric/test/options.spec.js",
     "/library/selectric/test/visibility.spec.js": "/library/selectric/test/visibility.spec.js",
+<<<<<<< HEAD
     "/library/codemirror/AUTHORS": "/library/codemirror/AUTHORS",
     "/library/codemirror/CHANGELOG.md": "/library/codemirror/CHANGELOG.md",
     "/library/codemirror/CONTRIBUTING.md": "/library/codemirror/CONTRIBUTING.md",
     "/library/codemirror/LICENSE": "/library/codemirror/LICENSE",
     "/library/codemirror/README.md": "/library/codemirror/README.md",
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/codemirror/addon/comment/comment.js": "/library/codemirror/addon/comment/comment.js",
     "/library/codemirror/addon/comment/continuecomment.js": "/library/codemirror/addon/comment/continuecomment.js",
     "/library/codemirror/addon/dialog/dialog.css": "/library/codemirror/addon/dialog/dialog.css",
@@ -4274,12 +4706,23 @@
     "/library/codemirror/addon/tern/tern.js": "/library/codemirror/addon/tern/tern.js",
     "/library/codemirror/addon/tern/worker.js": "/library/codemirror/addon/tern/worker.js",
     "/library/codemirror/addon/wrap/hardwrap.js": "/library/codemirror/addon/wrap/hardwrap.js",
+<<<<<<< HEAD
     "/library/codemirror/bin/source-highlight": "/library/codemirror/bin/source-highlight",
+=======
+    "/library/codemirror/AUTHORS": "/library/codemirror/AUTHORS",
+    "/library/codemirror/bin/source-highlight": "/library/codemirror/bin/source-highlight",
+    "/library/codemirror/CHANGELOG.md": "/library/codemirror/CHANGELOG.md",
+    "/library/codemirror/CONTRIBUTING.md": "/library/codemirror/CONTRIBUTING.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/codemirror/keymap/emacs.js": "/library/codemirror/keymap/emacs.js",
     "/library/codemirror/keymap/sublime.js": "/library/codemirror/keymap/sublime.js",
     "/library/codemirror/keymap/vim.js": "/library/codemirror/keymap/vim.js",
     "/library/codemirror/lib/codemirror.css": "/library/codemirror/lib/codemirror.css",
     "/library/codemirror/lib/codemirror.js": "/library/codemirror/lib/codemirror.js",
+<<<<<<< HEAD
+=======
+    "/library/codemirror/LICENSE": "/library/codemirror/LICENSE",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/codemirror/mode/apl/apl.js": "/library/codemirror/mode/apl/apl.js",
     "/library/codemirror/mode/asciiarmor/asciiarmor.js": "/library/codemirror/mode/asciiarmor/asciiarmor.js",
     "/library/codemirror/mode/asn.1/asn.1.js": "/library/codemirror/mode/asn.1/asn.1.js",
@@ -4406,6 +4849,10 @@
     "/library/codemirror/mode/yaml-frontmatter/yaml-frontmatter.js": "/library/codemirror/mode/yaml-frontmatter/yaml-frontmatter.js",
     "/library/codemirror/mode/z80/z80.js": "/library/codemirror/mode/z80/z80.js",
     "/library/codemirror/package.json": "/library/codemirror/package.json",
+<<<<<<< HEAD
+=======
+    "/library/codemirror/README.md": "/library/codemirror/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/codemirror/rollup.config.js": "/library/codemirror/rollup.config.js",
     "/library/codemirror/src/addon/runmode/codemirror-standalone.js": "/library/codemirror/src/addon/runmode/codemirror-standalone.js",
     "/library/codemirror/src/addon/runmode/codemirror.node.js": "/library/codemirror/src/addon/runmode/codemirror.node.js",
@@ -4419,9 +4866,15 @@
     "/library/codemirror/src/display/line_numbers.js": "/library/codemirror/src/display/line_numbers.js",
     "/library/codemirror/src/display/mode_state.js": "/library/codemirror/src/display/mode_state.js",
     "/library/codemirror/src/display/operations.js": "/library/codemirror/src/display/operations.js",
+<<<<<<< HEAD
     "/library/codemirror/src/display/scroll_events.js": "/library/codemirror/src/display/scroll_events.js",
     "/library/codemirror/src/display/scrollbars.js": "/library/codemirror/src/display/scrollbars.js",
     "/library/codemirror/src/display/scrolling.js": "/library/codemirror/src/display/scrolling.js",
+=======
+    "/library/codemirror/src/display/scrollbars.js": "/library/codemirror/src/display/scrollbars.js",
+    "/library/codemirror/src/display/scrolling.js": "/library/codemirror/src/display/scrolling.js",
+    "/library/codemirror/src/display/scroll_events.js": "/library/codemirror/src/display/scroll_events.js",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/codemirror/src/display/selection.js": "/library/codemirror/src/display/selection.js",
     "/library/codemirror/src/display/update_display.js": "/library/codemirror/src/display/update_display.js",
     "/library/codemirror/src/display/update_line.js": "/library/codemirror/src/display/update_line.js",
@@ -4441,12 +4894,19 @@
     "/library/codemirror/src/edit/options.js": "/library/codemirror/src/edit/options.js",
     "/library/codemirror/src/edit/utils.js": "/library/codemirror/src/edit/utils.js",
     "/library/codemirror/src/input/ContentEditableInput.js": "/library/codemirror/src/input/ContentEditableInput.js",
+<<<<<<< HEAD
     "/library/codemirror/src/input/TextareaInput.js": "/library/codemirror/src/input/TextareaInput.js",
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/codemirror/src/input/indent.js": "/library/codemirror/src/input/indent.js",
     "/library/codemirror/src/input/input.js": "/library/codemirror/src/input/input.js",
     "/library/codemirror/src/input/keymap.js": "/library/codemirror/src/input/keymap.js",
     "/library/codemirror/src/input/keynames.js": "/library/codemirror/src/input/keynames.js",
     "/library/codemirror/src/input/movement.js": "/library/codemirror/src/input/movement.js",
+<<<<<<< HEAD
+=======
+    "/library/codemirror/src/input/TextareaInput.js": "/library/codemirror/src/input/TextareaInput.js",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/codemirror/src/line/highlight.js": "/library/codemirror/src/line/highlight.js",
     "/library/codemirror/src/line/line_data.js": "/library/codemirror/src/line/line_data.js",
     "/library/codemirror/src/line/pos.js": "/library/codemirror/src/line/pos.js",
@@ -4455,10 +4915,17 @@
     "/library/codemirror/src/line/utils_line.js": "/library/codemirror/src/line/utils_line.js",
     "/library/codemirror/src/measurement/position_measurement.js": "/library/codemirror/src/measurement/position_measurement.js",
     "/library/codemirror/src/measurement/widgets.js": "/library/codemirror/src/measurement/widgets.js",
+<<<<<<< HEAD
     "/library/codemirror/src/model/Doc.js": "/library/codemirror/src/model/Doc.js",
     "/library/codemirror/src/model/change_measurement.js": "/library/codemirror/src/model/change_measurement.js",
     "/library/codemirror/src/model/changes.js": "/library/codemirror/src/model/changes.js",
     "/library/codemirror/src/model/chunk.js": "/library/codemirror/src/model/chunk.js",
+=======
+    "/library/codemirror/src/model/changes.js": "/library/codemirror/src/model/changes.js",
+    "/library/codemirror/src/model/change_measurement.js": "/library/codemirror/src/model/change_measurement.js",
+    "/library/codemirror/src/model/chunk.js": "/library/codemirror/src/model/chunk.js",
+    "/library/codemirror/src/model/Doc.js": "/library/codemirror/src/model/Doc.js",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/codemirror/src/model/document_data.js": "/library/codemirror/src/model/document_data.js",
     "/library/codemirror/src/model/history.js": "/library/codemirror/src/model/history.js",
     "/library/codemirror/src/model/line_widget.js": "/library/codemirror/src/model/line_widget.js",
@@ -4466,7 +4933,10 @@
     "/library/codemirror/src/model/selection.js": "/library/codemirror/src/model/selection.js",
     "/library/codemirror/src/model/selection_updates.js": "/library/codemirror/src/model/selection_updates.js",
     "/library/codemirror/src/modes.js": "/library/codemirror/src/modes.js",
+<<<<<<< HEAD
     "/library/codemirror/src/util/StringStream.js": "/library/codemirror/src/util/StringStream.js",
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/codemirror/src/util/bidi.js": "/library/codemirror/src/util/bidi.js",
     "/library/codemirror/src/util/browser.js": "/library/codemirror/src/util/browser.js",
     "/library/codemirror/src/util/dom.js": "/library/codemirror/src/util/dom.js",
@@ -4474,6 +4944,10 @@
     "/library/codemirror/src/util/feature_detection.js": "/library/codemirror/src/util/feature_detection.js",
     "/library/codemirror/src/util/misc.js": "/library/codemirror/src/util/misc.js",
     "/library/codemirror/src/util/operation_group.js": "/library/codemirror/src/util/operation_group.js",
+<<<<<<< HEAD
+=======
+    "/library/codemirror/src/util/StringStream.js": "/library/codemirror/src/util/StringStream.js",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/codemirror/theme/3024-day.css": "/library/codemirror/theme/3024-day.css",
     "/library/codemirror/theme/3024-night.css": "/library/codemirror/theme/3024-night.css",
     "/library/codemirror/theme/abbott.css": "/library/codemirror/theme/abbott.css",
@@ -4541,8 +5015,11 @@
     "/library/codemirror/theme/zenburn.css": "/library/codemirror/theme/zenburn.css",
     "/library/fullcalendar/CHANGELOG.md": "/library/fullcalendar/CHANGELOG.md",
     "/library/fullcalendar/CONTRIBUTING.md": "/library/fullcalendar/CONTRIBUTING.md",
+<<<<<<< HEAD
     "/library/fullcalendar/LICENSE.txt": "/library/fullcalendar/LICENSE.txt",
     "/library/fullcalendar/README.md": "/library/fullcalendar/README.md",
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/fullcalendar/dist/fullcalendar.css": "/library/fullcalendar/dist/fullcalendar.css",
     "/library/fullcalendar/dist/fullcalendar.d.ts": "/library/fullcalendar/dist/fullcalendar.d.ts",
     "/library/fullcalendar/dist/fullcalendar.js": "/library/fullcalendar/dist/fullcalendar.js",
@@ -4626,6 +5103,7 @@
     "/library/fullcalendar/dist/locale/zh-hk.js": "/library/fullcalendar/dist/locale/zh-hk.js",
     "/library/fullcalendar/dist/locale/zh-tw.js": "/library/fullcalendar/dist/locale/zh-tw.js",
     "/library/fullcalendar/dist/locale-all.js": "/library/fullcalendar/dist/locale-all.js",
+<<<<<<< HEAD
     "/library/fullcalendar/package.json": "/library/fullcalendar/package.json",
     "/library/datatables/Readme.md": "/library/datatables/Readme.md",
     "/library/datatables/license.txt": "/library/datatables/license.txt",
@@ -4633,6 +5111,16 @@
     "/library/datatables/media/css/jquery.dataTables.min.css": "/library/datatables/media/css/jquery.dataTables.min.css",
     "/library/datatables/media/images/Sorting icons.psd": "/library/datatables/media/images/Sorting icons.psd",
     "/library/datatables/media/images/favicon.ico": "/library/datatables/media/images/favicon.ico",
+=======
+    "/library/fullcalendar/LICENSE.txt": "/library/fullcalendar/LICENSE.txt",
+    "/library/fullcalendar/package.json": "/library/fullcalendar/package.json",
+    "/library/fullcalendar/README.md": "/library/fullcalendar/README.md",
+    "/library/datatables/license.txt": "/library/datatables/license.txt",
+    "/library/datatables/media/css/jquery.dataTables.css": "/library/datatables/media/css/jquery.dataTables.css",
+    "/library/datatables/media/css/jquery.dataTables.min.css": "/library/datatables/media/css/jquery.dataTables.min.css",
+    "/library/datatables/media/images/favicon.ico": "/library/datatables/media/images/favicon.ico",
+    "/library/datatables/media/images/Sorting icons.psd": "/library/datatables/media/images/Sorting icons.psd",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/datatables/media/images/sort_asc.png": "/library/datatables/media/images/sort_asc.png",
     "/library/datatables/media/images/sort_asc_disabled.png": "/library/datatables/media/images/sort_asc_disabled.png",
     "/library/datatables/media/images/sort_both.png": "/library/datatables/media/images/sort_both.png",
@@ -4641,7 +5129,11 @@
     "/library/datatables/media/js/jquery.dataTables.js": "/library/datatables/media/js/jquery.dataTables.js",
     "/library/datatables/media/js/jquery.dataTables.min.js": "/library/datatables/media/js/jquery.dataTables.min.js",
     "/library/datatables/package.json": "/library/datatables/package.json",
+<<<<<<< HEAD
     "/library/ionicons201/LICENSE": "/library/ionicons201/LICENSE",
+=======
+    "/library/datatables/Readme.md": "/library/datatables/Readme.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/ionicons201/bower.json": "/library/ionicons201/bower.json",
     "/library/ionicons201/builder/build_data.json": "/library/ionicons201/builder/build_data.json",
     "/library/ionicons201/builder/cheatsheet/icon-row.html": "/library/ionicons201/builder/cheatsheet/icon-row.html",
@@ -4660,10 +5152,18 @@
     "/library/ionicons201/fonts/ionicons.svg": "/library/ionicons201/fonts/ionicons.svg",
     "/library/ionicons201/fonts/ionicons.ttf": "/library/ionicons201/fonts/ionicons.ttf",
     "/library/ionicons201/fonts/ionicons.woff": "/library/ionicons201/fonts/ionicons.woff",
+<<<<<<< HEAD
     "/library/ionicons201/less/_ionicons-font.less": "/library/ionicons201/less/_ionicons-font.less",
     "/library/ionicons201/less/_ionicons-icons.less": "/library/ionicons201/less/_ionicons-icons.less",
     "/library/ionicons201/less/_ionicons-variables.less": "/library/ionicons201/less/_ionicons-variables.less",
     "/library/ionicons201/less/ionicons.less": "/library/ionicons201/less/ionicons.less",
+=======
+    "/library/ionicons201/less/ionicons.less": "/library/ionicons201/less/ionicons.less",
+    "/library/ionicons201/less/_ionicons-font.less": "/library/ionicons201/less/_ionicons-font.less",
+    "/library/ionicons201/less/_ionicons-icons.less": "/library/ionicons201/less/_ionicons-icons.less",
+    "/library/ionicons201/less/_ionicons-variables.less": "/library/ionicons201/less/_ionicons-variables.less",
+    "/library/ionicons201/LICENSE": "/library/ionicons201/LICENSE",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/ionicons201/package.json": "/library/ionicons201/package.json",
     "/library/ionicons201/png/512/alert-circled.png": "/library/ionicons201/png/512/alert-circled.png",
     "/library/ionicons201/png/512/alert.png": "/library/ionicons201/png/512/alert.png",
@@ -5267,10 +5767,17 @@
     "/library/ionicons201/png/512/wrench.png": "/library/ionicons201/png/512/wrench.png",
     "/library/ionicons201/png/512/xbox.png": "/library/ionicons201/png/512/xbox.png",
     "/library/ionicons201/readme.md": "/library/ionicons201/readme.md",
+<<<<<<< HEAD
     "/library/ionicons201/scss/_ionicons-font.scss": "/library/ionicons201/scss/_ionicons-font.scss",
     "/library/ionicons201/scss/_ionicons-icons.scss": "/library/ionicons201/scss/_ionicons-icons.scss",
     "/library/ionicons201/scss/_ionicons-variables.scss": "/library/ionicons201/scss/_ionicons-variables.scss",
     "/library/ionicons201/scss/ionicons.scss": "/library/ionicons201/scss/ionicons.scss",
+=======
+    "/library/ionicons201/scss/ionicons.scss": "/library/ionicons201/scss/ionicons.scss",
+    "/library/ionicons201/scss/_ionicons-font.scss": "/library/ionicons201/scss/_ionicons-font.scss",
+    "/library/ionicons201/scss/_ionicons-icons.scss": "/library/ionicons201/scss/_ionicons-icons.scss",
+    "/library/ionicons201/scss/_ionicons-variables.scss": "/library/ionicons201/scss/_ionicons-variables.scss",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/ionicons201/src/alert-circled.svg": "/library/ionicons201/src/alert-circled.svg",
     "/library/ionicons201/src/alert.svg": "/library/ionicons201/src/alert.svg",
     "/library/ionicons201/src/android-add-circle.svg": "/library/ionicons201/src/android-add-circle.svg",
@@ -6004,10 +6511,17 @@
     "/library/ionicons201/src/woman.svg": "/library/ionicons201/src/woman.svg",
     "/library/ionicons201/src/wrench.svg": "/library/ionicons201/src/wrench.svg",
     "/library/ionicons201/src/xbox.svg": "/library/ionicons201/src/xbox.svg",
+<<<<<<< HEAD
     "/library/sweetalert/LICENSE.md": "/library/sweetalert/LICENSE.md",
     "/library/sweetalert/README.md": "/library/sweetalert/README.md",
     "/library/sweetalert/dist/sweetalert.min.js": "/library/sweetalert/dist/sweetalert.min.js",
     "/library/sweetalert/package.json": "/library/sweetalert/package.json",
+=======
+    "/library/sweetalert/dist/sweetalert.min.js": "/library/sweetalert/dist/sweetalert.min.js",
+    "/library/sweetalert/LICENSE.md": "/library/sweetalert/LICENSE.md",
+    "/library/sweetalert/package.json": "/library/sweetalert/package.json",
+    "/library/sweetalert/README.md": "/library/sweetalert/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/sweetalert/typings/core.d.ts": "/library/sweetalert/typings/core.d.ts",
     "/library/sweetalert/typings/modules/actions.d.ts": "/library/sweetalert/typings/modules/actions.d.ts",
     "/library/sweetalert/typings/modules/class-list/index.d.ts": "/library/sweetalert/typings/modules/class-list/index.d.ts",
@@ -6032,15 +6546,24 @@
     "/library/sweetalert/typings/modules/state.d.ts": "/library/sweetalert/typings/modules/state.d.ts",
     "/library/sweetalert/typings/modules/utils.d.ts": "/library/sweetalert/typings/modules/utils.d.ts",
     "/library/sweetalert/typings/sweetalert.d.ts": "/library/sweetalert/typings/sweetalert.d.ts",
+<<<<<<< HEAD
     "/library/izitoast/LICENSE": "/library/izitoast/LICENSE",
     "/library/izitoast/README.md": "/library/izitoast/README.md",
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/izitoast/bower.json": "/library/izitoast/bower.json",
     "/library/izitoast/dist/css/iziToast.css": "/library/izitoast/dist/css/iziToast.css",
     "/library/izitoast/dist/css/iziToast.min.css": "/library/izitoast/dist/css/iziToast.min.css",
     "/library/izitoast/dist/js/iziToast.js": "/library/izitoast/dist/js/iziToast.js",
     "/library/izitoast/dist/js/iziToast.min.js": "/library/izitoast/dist/js/iziToast.min.js",
     "/library/izitoast/gulpfile.js": "/library/izitoast/gulpfile.js",
+<<<<<<< HEAD
     "/library/izitoast/package.json": "/library/izitoast/package.json",
+=======
+    "/library/izitoast/LICENSE": "/library/izitoast/LICENSE",
+    "/library/izitoast/package.json": "/library/izitoast/package.json",
+    "/library/izitoast/README.md": "/library/izitoast/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/izitoast/src/css/animations.styl": "/library/izitoast/src/css/animations.styl",
     "/library/izitoast/src/css/layouts.styl": "/library/izitoast/src/css/layouts.styl",
     "/library/izitoast/src/css/style.styl": "/library/izitoast/src/css/style.styl",
@@ -6048,6 +6571,7 @@
     "/library/izitoast/src/css/toast.styl": "/library/izitoast/src/css/toast.styl",
     "/library/izitoast/src/js/iziToast.js": "/library/izitoast/src/js/iziToast.js",
     "/library/izitoast/types/index.d.ts": "/library/izitoast/types/index.d.ts",
+<<<<<<< HEAD
     "/library/gmaps/CONTRIBUTING.md": "/library/gmaps/CONTRIBUTING.md",
     "/library/gmaps/Gruntfile.js": "/library/gmaps/Gruntfile.js",
     "/library/gmaps/README.md": "/library/gmaps/README.md",
@@ -6055,6 +6579,13 @@
     "/library/gmaps/docs/GMaps.html": "/library/gmaps/docs/GMaps.html",
     "/library/gmaps/docs/gmaps.controls.js.html": "/library/gmaps/docs/gmaps.controls.js.html",
     "/library/gmaps/docs/gmaps.core.js.html": "/library/gmaps/docs/gmaps.core.js.html",
+=======
+    "/library/gmaps/bower.json": "/library/gmaps/bower.json",
+    "/library/gmaps/CONTRIBUTING.md": "/library/gmaps/CONTRIBUTING.md",
+    "/library/gmaps/docs/gmaps.controls.js.html": "/library/gmaps/docs/gmaps.controls.js.html",
+    "/library/gmaps/docs/gmaps.core.js.html": "/library/gmaps/docs/gmaps.core.js.html",
+    "/library/gmaps/docs/GMaps.html": "/library/gmaps/docs/GMaps.html",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/gmaps/docs/gmaps.static.js.html": "/library/gmaps/docs/gmaps.static.js.html",
     "/library/gmaps/docs/index.html": "/library/gmaps/docs/index.html",
     "/library/gmaps/docs/scripts/linenumber.js": "/library/gmaps/docs/scripts/linenumber.js",
@@ -6079,10 +6610,17 @@
     "/library/gmaps/examples/layers_places.html": "/library/gmaps/examples/layers_places.html",
     "/library/gmaps/examples/map_events.html": "/library/gmaps/examples/map_events.html",
     "/library/gmaps/examples/map_types.html": "/library/gmaps/examples/map_types.html",
+<<<<<<< HEAD
     "/library/gmaps/examples/marker_clusterer.html": "/library/gmaps/examples/marker_clusterer.html",
     "/library/gmaps/examples/markers.html": "/library/gmaps/examples/markers.html",
     "/library/gmaps/examples/overlay_map_types.html": "/library/gmaps/examples/overlay_map_types.html",
     "/library/gmaps/examples/overlays.html": "/library/gmaps/examples/overlays.html",
+=======
+    "/library/gmaps/examples/markers.html": "/library/gmaps/examples/markers.html",
+    "/library/gmaps/examples/marker_clusterer.html": "/library/gmaps/examples/marker_clusterer.html",
+    "/library/gmaps/examples/overlays.html": "/library/gmaps/examples/overlays.html",
+    "/library/gmaps/examples/overlay_map_types.html": "/library/gmaps/examples/overlay_map_types.html",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/gmaps/examples/polygons.html": "/library/gmaps/examples/polygons.html",
     "/library/gmaps/examples/polylines.html": "/library/gmaps/examples/polylines.html",
     "/library/gmaps/examples/render_directions.html": "/library/gmaps/examples/render_directions.html",
@@ -6097,6 +6635,10 @@
     "/library/gmaps/gmaps.js": "/library/gmaps/gmaps.js",
     "/library/gmaps/gmaps.min.js": "/library/gmaps/gmaps.min.js",
     "/library/gmaps/gmaps.min.js.map": "/library/gmaps/gmaps.min.js.map",
+<<<<<<< HEAD
+=======
+    "/library/gmaps/Gruntfile.js": "/library/gmaps/Gruntfile.js",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/gmaps/jsdoc.json": "/library/gmaps/jsdoc.json",
     "/library/gmaps/lib/gmaps.controls.js": "/library/gmaps/lib/gmaps.controls.js",
     "/library/gmaps/lib/gmaps.core.js": "/library/gmaps/lib/gmaps.core.js",
@@ -6114,6 +6656,10 @@
     "/library/gmaps/lib/gmaps.styles.js": "/library/gmaps/lib/gmaps.styles.js",
     "/library/gmaps/lib/gmaps.utils.js": "/library/gmaps/lib/gmaps.utils.js",
     "/library/gmaps/package.json": "/library/gmaps/package.json",
+<<<<<<< HEAD
+=======
+    "/library/gmaps/README.md": "/library/gmaps/README.md",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     "/library/gmaps/test/index.html": "/library/gmaps/test/index.html",
     "/library/gmaps/test/lib/jasmine-html.js": "/library/gmaps/test/lib/jasmine-html.js",
     "/library/gmaps/test/lib/jasmine.css": "/library/gmaps/test/lib/jasmine.css",

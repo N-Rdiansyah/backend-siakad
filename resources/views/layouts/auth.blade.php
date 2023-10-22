@@ -5,7 +5,11 @@
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no"
         name="viewport">
+<<<<<<< HEAD
     <title>@yield('title') &mdash; FIC8</title>
+=======
+    <title>@yield('title') &mdash; FIC8-SIAKAD</title>
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
 
     <!-- General CSS Files -->
     <link rel="stylesheet"

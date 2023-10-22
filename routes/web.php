@@ -14,6 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
+<<<<<<< HEAD
     return view('pages.auth.auth-login');
 });
 
@@ -38,3 +39,23 @@ Route::middleware(['auth'])->group(function () {
 // Route::get('/reset-password', function () {
 //     return view('pages.auth.auth-reset-password');
 // })->name('reset-password');
+=======
+    return view('pages.app.dashboard-siakad', ['type_menu' => '']); // Menggunakan tanda => untuk menghubungkan nama variabel dengan nilai
+});
+
+Route::get('/login', function () {
+    return view('pages.auth.auth-login');
+})->name('login');
+
+Route::get('/register', function () {
+    return view('pages.auth.auth-register');
+})->name('register');
+
+Route::get('/forgot', function () {
+    return view('pages.auth.auth-forgot-password');
+})->name('forgot');
+
+Route::get('/reset-password', function () {
+    return view('pages.auth.auth-reset-password');
+})->name('reset-password');
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994

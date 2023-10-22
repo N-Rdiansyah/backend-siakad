@@ -4,6 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
+<<<<<<< HEAD
     "content-hash": "8d585cf9b89a801445aba7908ee6f107",
     "packages": [
         {
@@ -61,6 +62,11 @@
             "time": "2022-12-07T17:46:57+00:00"
         },
         {
+=======
+    "content-hash": "aa322c53454393ed775cfe4807d54a50",
+    "packages": [
+        {
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
             "name": "brick/math",
             "version": "0.11.0",
             "source": {
@@ -116,6 +122,7 @@
             "time": "2023-01-15T23:15:59+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "dasprid/enum",
             "version": "1.0.5",
             "source": {
@@ -166,6 +173,8 @@
             "time": "2023-08-25T16:18:39+00:00"
         },
         {
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
             "name": "dflydev/dot-access-data",
             "version": "v3.0.2",
             "source": {
@@ -1075,6 +1084,7 @@
             "time": "2023-08-27T10:19:19+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "laravel/fortify",
             "version": "v1.18.0",
             "source": {
@@ -1150,6 +1160,19 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/laravel/framework/zipball/dbfd495557678759153e8d71cc2f6027686ca51e",
                 "reference": "dbfd495557678759153e8d71cc2f6027686ca51e",
+=======
+            "name": "laravel/framework",
+            "version": "v10.24.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/laravel/framework.git",
+                "reference": "bcebd0a4c015d5c38aeec299d355a42451dd3726"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/bcebd0a4c015d5c38aeec299d355a42451dd3726",
+                "reference": "bcebd0a4c015d5c38aeec299d355a42451dd3726",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                 "shasum": ""
             },
             "require": {
@@ -1336,6 +1359,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
+<<<<<<< HEAD
             "time": "2023-09-13T14:51:46+00:00"
         },
         {
@@ -1350,6 +1374,22 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/laravel/prompts/zipball/554e7d855a22e87942753d68e23b327ad79b2070",
                 "reference": "554e7d855a22e87942753d68e23b327ad79b2070",
+=======
+            "time": "2023-09-19T15:25:04+00:00"
+        },
+        {
+            "name": "laravel/prompts",
+            "version": "v0.1.8",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/laravel/prompts.git",
+                "reference": "68dcc65babf92e1fb43cba0b3f78fc3d8002709c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/laravel/prompts/zipball/68dcc65babf92e1fb43cba0b3f78fc3d8002709c",
+                "reference": "68dcc65babf92e1fb43cba0b3f78fc3d8002709c",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                 "shasum": ""
             },
             "require": {
@@ -1382,9 +1422,15 @@
             ],
             "support": {
                 "issues": "https://github.com/laravel/prompts/issues",
+<<<<<<< HEAD
                 "source": "https://github.com/laravel/prompts/tree/v0.1.7"
             },
             "time": "2023-09-12T11:09:22+00:00"
+=======
+                "source": "https://github.com/laravel/prompts/tree/v0.1.8"
+            },
+            "time": "2023-09-19T15:33:56+00:00"
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
         },
         {
             "name": "laravel/sanctum",
@@ -2473,6 +2519,7 @@
             "time": "2023-02-08T01:06:31+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "paragonie/constant_time_encoding",
             "version": "v2.6.3",
             "source": {
@@ -2540,6 +2587,8 @@
             "time": "2022-06-14T06:56:20+00:00"
         },
         {
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
             "name": "phpoption/phpoption",
             "version": "1.9.1",
             "source": {
@@ -2615,6 +2664,7 @@
             "time": "2023-02-25T19:38:58+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "pragmarx/google2fa",
             "version": "v8.0.1",
             "source": {
@@ -2667,6 +2717,8 @@
             "time": "2022-06-13T21:57:56+00:00"
         },
         {
+=======
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
             "name": "psr/clock",
             "version": "1.0.0",
             "source": {
@@ -2819,6 +2871,7 @@
         },
         {
             "name": "psr/http-client",
+<<<<<<< HEAD
             "version": "1.0.2",
             "source": {
                 "type": "git",
@@ -2829,6 +2882,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/php-fig/http-client/zipball/0955afe48220520692d2d09f7ab7e0f93ffd6a31",
                 "reference": "0955afe48220520692d2d09f7ab7e0f93ffd6a31",
+=======
+            "version": "1.0.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/php-fig/http-client.git",
+                "reference": "bb5906edc1c324c9a05aa0873d40117941e5fa90"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/php-fig/http-client/zipball/bb5906edc1c324c9a05aa0873d40117941e5fa90",
+                "reference": "bb5906edc1c324c9a05aa0873d40117941e5fa90",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                 "shasum": ""
             },
             "require": {
@@ -2865,9 +2930,15 @@
                 "psr-18"
             ],
             "support": {
+<<<<<<< HEAD
                 "source": "https://github.com/php-fig/http-client/tree/1.0.2"
             },
             "time": "2023-04-10T20:12:12+00:00"
+=======
+                "source": "https://github.com/php-fig/http-client"
+            },
+            "time": "2023-09-23T14:17:50+00:00"
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
         },
         {
             "name": "psr/http-factory",
@@ -6097,6 +6168,7 @@
         },
         {
             "name": "laravel/pint",
+<<<<<<< HEAD
             "version": "v1.13.1",
             "source": {
                 "type": "git",
@@ -6107,6 +6179,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/laravel/pint/zipball/22f204242d68095b3ba7dab5d3ef0240454a4652",
                 "reference": "22f204242d68095b3ba7dab5d3ef0240454a4652",
+=======
+            "version": "v1.13.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/laravel/pint.git",
+                "reference": "bbb13460d7f8c5c0cd9a58109beedd79cd7331ff"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/laravel/pint/zipball/bbb13460d7f8c5c0cd9a58109beedd79cd7331ff",
+                "reference": "bbb13460d7f8c5c0cd9a58109beedd79cd7331ff",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                 "shasum": ""
             },
             "require": {
@@ -6117,6 +6201,7 @@
                 "php": "^8.1.0"
             },
             "require-dev": {
+<<<<<<< HEAD
                 "friendsofphp/php-cs-fixer": "^3.21.1",
                 "illuminate/view": "^10.5.1",
                 "laravel-zero/framework": "^10.1.2",
@@ -6124,6 +6209,15 @@
                 "nunomaduro/larastan": "^2.5.1",
                 "nunomaduro/termwind": "^1.15.1",
                 "pestphp/pest": "^2.4.0"
+=======
+                "friendsofphp/php-cs-fixer": "^3.26.1",
+                "illuminate/view": "^10.23.1",
+                "laravel-zero/framework": "^10.1.2",
+                "mockery/mockery": "^1.6.6",
+                "nunomaduro/larastan": "^2.6.4",
+                "nunomaduro/termwind": "^1.15.1",
+                "pestphp/pest": "^2.18.2"
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
             },
             "bin": [
                 "builds/pint"
@@ -6159,7 +6253,11 @@
                 "issues": "https://github.com/laravel/pint/issues",
                 "source": "https://github.com/laravel/pint"
             },
+<<<<<<< HEAD
             "time": "2023-09-06T11:03:34+00:00"
+=======
+            "time": "2023-09-19T15:55:02+00:00"
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
         },
         {
             "name": "laravel/sail",
@@ -8045,6 +8143,7 @@
         },
         {
             "name": "spatie/ignition",
+<<<<<<< HEAD
             "version": "1.10.1",
             "source": {
                 "type": "git",
@@ -8055,6 +8154,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/spatie/ignition/zipball/d92b9a081e99261179b63a858c7a4b01541e7dd1",
                 "reference": "d92b9a081e99261179b63a858c7a4b01541e7dd1",
+=======
+            "version": "1.11.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/spatie/ignition.git",
+                "reference": "48b23411ca4bfbc75c75dfc638b6b36159c375aa"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/spatie/ignition/zipball/48b23411ca4bfbc75c75dfc638b6b36159c375aa",
+                "reference": "48b23411ca4bfbc75c75dfc638b6b36159c375aa",
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                 "shasum": ""
             },
             "require": {
@@ -8124,7 +8235,11 @@
                     "type": "github"
                 }
             ],
+<<<<<<< HEAD
             "time": "2023-08-21T15:06:37+00:00"
+=======
+            "time": "2023-09-19T15:29:52+00:00"
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
         },
         {
             "name": "spatie/laravel-ignition",
@@ -8350,5 +8465,9 @@
         "php": "^8.1"
     },
     "platform-dev": [],
+<<<<<<< HEAD
     "plugin-api-version": "2.3.0"
+=======
+    "plugin-api-version": "2.6.0"
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
 }

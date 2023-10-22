@@ -3,6 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
+<<<<<<< HEAD
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no"
         name="viewport">
     <title>@yield('title') &mdash; Stisla</title>
@@ -15,10 +16,21 @@
         integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
         crossorigin="anonymous"
         referrerpolicy="no-referrer" />
+=======
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
+    <title>@yield('title') &mdash; FIC8-SIAKAD</title>
+
+    <!-- General CSS Files -->
+    <link rel="stylesheet" href="{{ asset('library/bootstrap/dist/css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+        integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
 
     @stack('style')
 
     <!-- Template CSS -->
+<<<<<<< HEAD
     <link rel="stylesheet"
         href="{{ asset('css/style.css') }}">
     <link rel="stylesheet"
@@ -27,6 +39,13 @@
     <!-- Start GA -->
     <script async
         src="https://www.googletagmanager.com/gtag/js?id=UA-94034622-3"></script>
+=======
+    <link rel="stylesheet" href="{{ asset('css/style.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/components.css') }}">
+
+    <!-- Start GA -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-94034622-3"></script>
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
     <script>
         window.dataLayer = window.dataLayer || [];
 

@@ -4,8 +4,15 @@
 
 @push('style')
     <!-- CSS Libraries -->
+<<<<<<< HEAD
     <link rel="stylesheet" href="{{ asset('library/jqvmap/dist/jqvmap.min.css') }}">
     <link rel="stylesheet" href="{{ asset('library/summernote/dist/summernote-bs4.min.css') }}">
+=======
+    <link rel="stylesheet"
+        href="{{ asset('library/jqvmap/dist/jqvmap.min.css') }}">
+    <link rel="stylesheet"
+        href="{{ asset('library/summernote/dist/summernote-bs4.min.css') }}">
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
 @endpush
 
 @section('main')
@@ -83,13 +90,25 @@
                             <h4>Statistics</h4>
                             <div class="card-header-action">
                                 <div class="btn-group">
+<<<<<<< HEAD
                                     <a href="#" class="btn btn-primary">Week</a>
                                     <a href="#" class="btn">Month</a>
+=======
+                                    <a href="#"
+                                        class="btn btn-primary">Week</a>
+                                    <a href="#"
+                                        class="btn">Month</a>
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                 </div>
                             </div>
                         </div>
                         <div class="card-body">
+<<<<<<< HEAD
                             <canvas id="myChart" height="182"></canvas>
+=======
+                            <canvas id="myChart"
+                                height="182"></canvas>
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                             <div class="statistic-details mt-sm-4">
                                 <div class="statistic-details-item">
                                     <span class="text-muted"><span class="text-primary"><i
@@ -127,8 +146,15 @@
                         <div class="card-body">
                             <ul class="list-unstyled list-unstyled-border">
                                 <li class="media">
+<<<<<<< HEAD
                                     <img class="rounded-circle mr-3" width="50"
                                         src="{{ asset('img/avatar/avatar-1.png') }}" alt="avatar">
+=======
+                                    <img class="rounded-circle mr-3"
+                                        width="50"
+                                        src="{{ asset('img/avatar/avatar-1.png') }}"
+                                        alt="avatar">
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                     <div class="media-body">
                                         <div class="text-primary float-right">Now</div>
                                         <div class="media-title">Farhan A Mujib</div>
@@ -137,8 +163,15 @@
                                     </div>
                                 </li>
                                 <li class="media">
+<<<<<<< HEAD
                                     <img class="rounded-circle mr-3" width="50"
                                         src="{{ asset('img/avatar/avatar-2.png') }}" alt="avatar">
+=======
+                                    <img class="rounded-circle mr-3"
+                                        width="50"
+                                        src="{{ asset('img/avatar/avatar-2.png') }}"
+                                        alt="avatar">
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                     <div class="media-body">
                                         <div class="float-right">12m</div>
                                         <div class="media-title">Ujang Maman</div>
@@ -147,8 +180,15 @@
                                     </div>
                                 </li>
                                 <li class="media">
+<<<<<<< HEAD
                                     <img class="rounded-circle mr-3" width="50"
                                         src="{{ asset('img/avatar/avatar-3.png') }}" alt="avatar">
+=======
+                                    <img class="rounded-circle mr-3"
+                                        width="50"
+                                        src="{{ asset('img/avatar/avatar-3.png') }}"
+                                        alt="avatar">
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                     <div class="media-body">
                                         <div class="float-right">17m</div>
                                         <div class="media-title">Rizal Fakhri</div>
@@ -157,8 +197,15 @@
                                     </div>
                                 </li>
                                 <li class="media">
+<<<<<<< HEAD
                                     <img class="rounded-circle mr-3" width="50"
                                         src="{{ asset('img/avatar/avatar-4.png') }}" alt="avatar">
+=======
+                                    <img class="rounded-circle mr-3"
+                                        width="50"
+                                        src="{{ asset('img/avatar/avatar-4.png') }}"
+                                        alt="avatar">
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                     <div class="media-body">
                                         <div class="float-right">21m</div>
                                         <div class="media-title">Alfa Zulkarnain</div>
@@ -168,7 +215,12 @@
                                 </li>
                             </ul>
                             <div class="pt-1 pb-1 text-center">
+<<<<<<< HEAD
                                 <a href="#" class="btn btn-primary btn-lg btn-round">
+=======
+                                <a href="#"
+                                    class="btn btn-primary btn-lg btn-round">
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                     View All
                                 </a>
                             </div>
@@ -193,34 +245,78 @@
                             <div class="row pb-2">
                                 <div class="col-6 col-sm-3 col-lg-3 mb-md-0 mb-4">
                                     <div class="avatar-item mb-0">
+<<<<<<< HEAD
                                         <img alt="image" src="{{ asset('img/avatar/avatar-5.png') }}"
                                             class="img-fluid" data-toggle="tooltip" title="Alfa Zulkarnain">
                                         <div class="avatar-badge" title="Editor" data-toggle="tooltip"><i
                                                 class="fas fa-wrench"></i></div>
+=======
+                                        <img alt="image"
+                                            src="{{ asset('img/avatar/avatar-5.png') }}"
+                                            class="img-fluid"
+                                            data-toggle="tooltip"
+                                            title="Alfa Zulkarnain">
+                                        <div class="avatar-badge"
+                                            title="Editor"
+                                            data-toggle="tooltip"><i class="fas fa-wrench"></i></div>
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                     </div>
                                 </div>
                                 <div class="col-6 col-sm-3 col-lg-3 mb-md-0 mb-4">
                                     <div class="avatar-item mb-0">
+<<<<<<< HEAD
                                         <img alt="image" src="{{ asset('img/avatar/avatar-4.png') }}"
                                             class="img-fluid" data-toggle="tooltip" title="Egi Ferdian">
                                         <div class="avatar-badge" title="Admin" data-toggle="tooltip"><i
                                                 class="fas fa-cog"></i></div>
+=======
+                                        <img alt="image"
+                                            src="{{ asset('img/avatar/avatar-4.png') }}"
+                                            class="img-fluid"
+                                            data-toggle="tooltip"
+                                            title="Egi Ferdian">
+                                        <div class="avatar-badge"
+                                            title="Admin"
+                                            data-toggle="tooltip"><i class="fas fa-cog"></i></div>
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                     </div>
                                 </div>
                                 <div class="col-6 col-sm-3 col-lg-3 mb-md-0 mb-4">
                                     <div class="avatar-item mb-0">
+<<<<<<< HEAD
                                         <img alt="image" src="{{ asset('img/avatar/avatar-1.png') }}"
                                             class="img-fluid" data-toggle="tooltip" title="Jaka Ramadhan">
                                         <div class="avatar-badge" title="Author" data-toggle="tooltip"><i
                                                 class="fas fa-pencil-alt"></i></div>
+=======
+                                        <img alt="image"
+                                            src="{{ asset('img/avatar/avatar-1.png') }}"
+                                            class="img-fluid"
+                                            data-toggle="tooltip"
+                                            title="Jaka Ramadhan">
+                                        <div class="avatar-badge"
+                                            title="Author"
+                                            data-toggle="tooltip"><i class="fas fa-pencil-alt"></i></div>
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                     </div>
                                 </div>
                                 <div class="col-6 col-sm-3 col-lg-3 mb-md-0 mb-4">
                                     <div class="avatar-item mb-0">
+<<<<<<< HEAD
                                         <img alt="image" src="{{ asset('img/avatar/avatar-2.png') }}"
                                             class="img-fluid" data-toggle="tooltip" title="Ryan">
                                         <div class="avatar-badge" title="Admin" data-toggle="tooltip"><i
                                                 class="fas fa-cog"></i></div>
+=======
+                                        <img alt="image"
+                                            src="{{ asset('img/avatar/avatar-2.png') }}"
+                                            class="img-fluid"
+                                            data-toggle="tooltip"
+                                            title="Ryan">
+                                        <div class="avatar-badge"
+                                            title="Admin"
+                                            data-toggle="tooltip"><i class="fas fa-cog"></i></div>
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                     </div>
                                 </div>
                             </div>
@@ -238,54 +334,120 @@
                             <div class="mb-4">
                                 <div class="text-small font-weight-bold text-muted float-right">2,100</div>
                                 <div class="font-weight-bold mb-1">Google</div>
+<<<<<<< HEAD
                                 <div class="progress" data-height="3">
                                     <div class="progress-bar" role="progressbar" data-width="80%" aria-valuenow="80"
                                         aria-valuemin="0" aria-valuemax="100"></div>
+=======
+                                <div class="progress"
+                                    data-height="3">
+                                    <div class="progress-bar"
+                                        role="progressbar"
+                                        data-width="80%"
+                                        aria-valuenow="80"
+                                        aria-valuemin="0"
+                                        aria-valuemax="100"></div>
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                 </div>
                             </div>
 
                             <div class="mb-4">
                                 <div class="text-small font-weight-bold text-muted float-right">1,880</div>
                                 <div class="font-weight-bold mb-1">Facebook</div>
+<<<<<<< HEAD
                                 <div class="progress" data-height="3">
                                     <div class="progress-bar" role="progressbar" data-width="67%" aria-valuenow="25"
                                         aria-valuemin="0" aria-valuemax="100"></div>
+=======
+                                <div class="progress"
+                                    data-height="3">
+                                    <div class="progress-bar"
+                                        role="progressbar"
+                                        data-width="67%"
+                                        aria-valuenow="25"
+                                        aria-valuemin="0"
+                                        aria-valuemax="100"></div>
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                 </div>
                             </div>
 
                             <div class="mb-4">
                                 <div class="text-small font-weight-bold text-muted float-right">1,521</div>
                                 <div class="font-weight-bold mb-1">Bing</div>
+<<<<<<< HEAD
                                 <div class="progress" data-height="3">
                                     <div class="progress-bar" role="progressbar" data-width="58%" aria-valuenow="25"
                                         aria-valuemin="0" aria-valuemax="100"></div>
+=======
+                                <div class="progress"
+                                    data-height="3">
+                                    <div class="progress-bar"
+                                        role="progressbar"
+                                        data-width="58%"
+                                        aria-valuenow="25"
+                                        aria-valuemin="0"
+                                        aria-valuemax="100"></div>
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                 </div>
                             </div>
 
                             <div class="mb-4">
                                 <div class="text-small font-weight-bold text-muted float-right">884</div>
                                 <div class="font-weight-bold mb-1">Yahoo</div>
+<<<<<<< HEAD
                                 <div class="progress" data-height="3">
                                     <div class="progress-bar" role="progressbar" data-width="36%" aria-valuenow="25"
                                         aria-valuemin="0" aria-valuemax="100"></div>
+=======
+                                <div class="progress"
+                                    data-height="3">
+                                    <div class="progress-bar"
+                                        role="progressbar"
+                                        data-width="36%"
+                                        aria-valuenow="25"
+                                        aria-valuemin="0"
+                                        aria-valuemax="100"></div>
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                 </div>
                             </div>
 
                             <div class="mb-4">
                                 <div class="text-small font-weight-bold text-muted float-right">473</div>
                                 <div class="font-weight-bold mb-1">Kodinger</div>
+<<<<<<< HEAD
                                 <div class="progress" data-height="3">
                                     <div class="progress-bar" role="progressbar" data-width="28%" aria-valuenow="25"
                                         aria-valuemin="0" aria-valuemax="100"></div>
+=======
+                                <div class="progress"
+                                    data-height="3">
+                                    <div class="progress-bar"
+                                        role="progressbar"
+                                        data-width="28%"
+                                        aria-valuenow="25"
+                                        aria-valuemin="0"
+                                        aria-valuemax="100"></div>
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                 </div>
                             </div>
 
                             <div class="mb-4">
                                 <div class="text-small font-weight-bold text-muted float-right">418</div>
                                 <div class="font-weight-bold mb-1">Multinity</div>
+<<<<<<< HEAD
                                 <div class="progress" data-height="3">
                                     <div class="progress-bar" role="progressbar" data-width="20%" aria-valuenow="25"
                                         aria-valuemin="0" aria-valuemax="100"></div>
+=======
+                                <div class="progress"
+                                    data-height="3">
+                                    <div class="progress-bar"
+                                        role="progressbar"
+                                        data-width="20%"
+                                        aria-valuenow="25"
+                                        aria-valuemin="0"
+                                        aria-valuemax="100"></div>
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                 </div>
                             </div>
                         </div>
@@ -343,6 +505,7 @@
                             <h4>This Week Stats</h4>
                             <div class="card-header-action">
                                 <div class="dropdown">
+<<<<<<< HEAD
                                     <a href="#" class="dropdown-toggle btn btn-primary"
                                         data-toggle="dropdown">Filter</a>
                                     <div class="dropdown-menu dropdown-menu-right">
@@ -354,6 +517,21 @@
                                             Hat</a>
                                         <div class="dropdown-divider"></div>
                                         <a href="#" class="dropdown-item">View All</a>
+=======
+                                    <a href="#"
+                                        class="dropdown-toggle btn btn-primary"
+                                        data-toggle="dropdown">Filter</a>
+                                    <div class="dropdown-menu dropdown-menu-right">
+                                        <a href="#"
+                                            class="dropdown-item has-icon"><i class="far fa-circle"></i> Electronic</a>
+                                        <a href="#"
+                                            class="dropdown-item has-icon"><i class="far fa-circle"></i> T-shirt</a>
+                                        <a href="#"
+                                            class="dropdown-item has-icon"><i class="far fa-circle"></i> Hat</a>
+                                        <div class="dropdown-divider"></div>
+                                        <a href="#"
+                                            class="dropdown-item">View All</a>
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                     </div>
                                 </div>
                             </div>
@@ -372,8 +550,15 @@
                                     <ul class="list-unstyled list-unstyled-border">
                                         <li class="media">
                                             <a href="#">
+<<<<<<< HEAD
                                                 <img class="mr-3 rounded" width="50"
                                                     src="{{ asset('img/products/product-1-50.png') }}" alt="product">
+=======
+                                                <img class="mr-3 rounded"
+                                                    width="50"
+                                                    src="{{ asset('img/products/product-1-50.png') }}"
+                                                    alt="product">
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                             </a>
                                             <div class="media-body">
                                                 <div class="media-right">$405</div>
@@ -385,8 +570,15 @@
                                         </li>
                                         <li class="media">
                                             <a href="#">
+<<<<<<< HEAD
                                                 <img class="mr-3 rounded" width="50"
                                                     src="{{ asset('img/products/product-2-50.png') }}" alt="product">
+=======
+                                                <img class="mr-3 rounded"
+                                                    width="50"
+                                                    src="{{ asset('img/products/product-2-50.png') }}"
+                                                    alt="product">
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                             </a>
                                             <div class="media-body">
                                                 <div class="media-right">$499</div>
@@ -398,8 +590,15 @@
                                         </li>
                                         <li class="media">
                                             <a href="#">
+<<<<<<< HEAD
                                                 <img class="mr-3 rounded" width="50"
                                                     src="{{ asset('img/products/product-3-50.png') }}" alt="product">
+=======
+                                                <img class="mr-3 rounded"
+                                                    width="50"
+                                                    src="{{ asset('img/products/product-3-50.png') }}"
+                                                    alt="product">
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                             </a>
                                             <div class="media-body">
                                                 <div class="media-right">$149</div>
@@ -418,18 +617,36 @@
                         <div class="card-header">
                             <h4 class="d-inline">Tasks</h4>
                             <div class="card-header-action">
+<<<<<<< HEAD
                                 <a href="#" class="btn btn-primary">View All</a>
+=======
+                                <a href="#"
+                                    class="btn btn-primary">View All</a>
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                             </div>
                         </div>
                         <div class="card-body">
                             <ul class="list-unstyled list-unstyled-border">
                                 <li class="media">
                                     <div class="custom-control custom-checkbox">
+<<<<<<< HEAD
                                         <input type="checkbox" class="custom-control-input" id="cbx-1">
                                         <label class="custom-control-label" for="cbx-1"></label>
                                     </div>
                                     <img class="rounded-circle mr-3" width="50"
                                         src="{{ asset('img/avatar/avatar-4.png') }}" alt="avatar">
+=======
+                                        <input type="checkbox"
+                                            class="custom-control-input"
+                                            id="cbx-1">
+                                        <label class="custom-control-label"
+                                            for="cbx-1"></label>
+                                    </div>
+                                    <img class="rounded-circle mr-3"
+                                        width="50"
+                                        src="{{ asset('img/avatar/avatar-4.png') }}"
+                                        alt="avatar">
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                     <div class="media-body">
                                         <div class="badge badge-pill badge-danger float-right mb-1">Not Finished</div>
                                         <h6 class="media-title"><a href="#">Redesign header</a></h6>
@@ -440,12 +657,26 @@
                                 </li>
                                 <li class="media">
                                     <div class="custom-control custom-checkbox">
+<<<<<<< HEAD
                                         <input type="checkbox" class="custom-control-input" id="cbx-2"
                                             checked="">
                                         <label class="custom-control-label" for="cbx-2"></label>
                                     </div>
                                     <img class="rounded-circle mr-3" width="50"
                                         src="{{ asset('img/avatar/avatar-5.png') }}" alt="avatar">
+=======
+                                        <input type="checkbox"
+                                            class="custom-control-input"
+                                            id="cbx-2"
+                                            checked="">
+                                        <label class="custom-control-label"
+                                            for="cbx-2"></label>
+                                    </div>
+                                    <img class="rounded-circle mr-3"
+                                        width="50"
+                                        src="{{ asset('img/avatar/avatar-5.png') }}"
+                                        alt="avatar">
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                     <div class="media-body">
                                         <div class="badge badge-pill badge-primary float-right mb-1">Completed</div>
                                         <h6 class="media-title"><a href="#">Add a new component</a></h6>
@@ -455,11 +686,24 @@
                                 </li>
                                 <li class="media">
                                     <div class="custom-control custom-checkbox">
+<<<<<<< HEAD
                                         <input type="checkbox" class="custom-control-input" id="cbx-3">
                                         <label class="custom-control-label" for="cbx-3"></label>
                                     </div>
                                     <img class="rounded-circle mr-3" width="50"
                                         src="{{ asset('img/avatar/avatar-2.png') }}" alt="avatar">
+=======
+                                        <input type="checkbox"
+                                            class="custom-control-input"
+                                            id="cbx-3">
+                                        <label class="custom-control-label"
+                                            for="cbx-3"></label>
+                                    </div>
+                                    <img class="rounded-circle mr-3"
+                                        width="50"
+                                        src="{{ asset('img/avatar/avatar-2.png') }}"
+                                        alt="avatar">
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                     <div class="media-body">
                                         <div class="badge badge-pill badge-warning float-right mb-1">Progress</div>
                                         <h6 class="media-title"><a href="#">Fix modal window</a></h6>
@@ -469,11 +713,24 @@
                                 </li>
                                 <li class="media">
                                     <div class="custom-control custom-checkbox">
+<<<<<<< HEAD
                                         <input type="checkbox" class="custom-control-input" id="cbx-4">
                                         <label class="custom-control-label" for="cbx-4"></label>
                                     </div>
                                     <img class="rounded-circle mr-3" width="50"
                                         src="{{ asset('img/avatar/avatar-1.png') }}" alt="avatar">
+=======
+                                        <input type="checkbox"
+                                            class="custom-control-input"
+                                            id="cbx-4">
+                                        <label class="custom-control-label"
+                                            for="cbx-4"></label>
+                                    </div>
+                                    <img class="rounded-circle mr-3"
+                                        width="50"
+                                        src="{{ asset('img/avatar/avatar-1.png') }}"
+                                        alt="avatar">
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                     <div class="media-body">
                                         <div class="badge badge-pill badge-danger float-right mb-1">Not Finished</div>
                                         <h6 class="media-title"><a href="#">Remove unwanted classes</a></h6>
@@ -488,7 +745,13 @@
             </div>
             <div class="row">
                 <div class="col-lg-5 col-md-12 col-12 col-sm-12">
+<<<<<<< HEAD
                     <form method="post" class="needs-validation" novalidate="">
+=======
+                    <form method="post"
+                        class="needs-validation"
+                        novalidate="">
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                         <div class="card">
                             <div class="card-header">
                                 <h4>Quick Draft</h4>
@@ -496,7 +759,14 @@
                             <div class="card-body pb-0">
                                 <div class="form-group">
                                     <label>Title</label>
+<<<<<<< HEAD
                                     <input type="text" name="title" class="form-control" required>
+=======
+                                    <input type="text"
+                                        name="title"
+                                        class="form-control"
+                                        required>
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                     <div class="invalid-feedback">
                                         Please fill in the title
                                     </div>
@@ -517,7 +787,12 @@
                         <div class="card-header">
                             <h4>Latest Posts</h4>
                             <div class="card-header-action">
+<<<<<<< HEAD
                                 <a href="#" class="btn btn-primary">View All</a>
+=======
+                                <a href="#"
+                                    class="btn btn-primary">View All</a>
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                             </div>
                         </div>
                         <div class="card-body p-0">
@@ -541,6 +816,7 @@
                                                 </div>
                                             </td>
                                             <td>
+<<<<<<< HEAD
                                                 <a href="#" class="font-weight-600"><img
                                                         src="{{ asset('img/avatar/avatar-1.png') }}" alt="avatar"
                                                         width="30" class="rounded-circle mr-1"> Bagus Dwi Cahya</a>
@@ -549,6 +825,22 @@
                                                 <a class="btn btn-primary btn-action mr-1" data-toggle="tooltip"
                                                     title="Edit"><i class="fas fa-pencil-alt"></i></a>
                                                 <a class="btn btn-danger btn-action" data-toggle="tooltip" title="Delete"
+=======
+                                                <a href="#"
+                                                    class="font-weight-600"><img
+                                                        src="{{ asset('img/avatar/avatar-1.png') }}"
+                                                        alt="avatar"
+                                                        width="30"
+                                                        class="rounded-circle mr-1"> Bagus Dwi Cahya</a>
+                                            </td>
+                                            <td>
+                                                <a class="btn btn-primary btn-action mr-1"
+                                                    data-toggle="tooltip"
+                                                    title="Edit"><i class="fas fa-pencil-alt"></i></a>
+                                                <a class="btn btn-danger btn-action"
+                                                    data-toggle="tooltip"
+                                                    title="Delete"
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                                     data-confirm="Are You Sure?|This action can not be undone. Do you want to continue?"
                                                     data-confirm-yes="alert('Deleted')"><i class="fas fa-trash"></i></a>
                                             </td>
@@ -563,6 +855,7 @@
                                                 </div>
                                             </td>
                                             <td>
+<<<<<<< HEAD
                                                 <a href="#" class="font-weight-600"><img
                                                         src="{{ asset('img/avatar/avatar-1.png') }}" alt="avatar"
                                                         width="30" class="rounded-circle mr-1"> Bagus Dwi Cahya</a>
@@ -571,6 +864,22 @@
                                                 <a class="btn btn-primary btn-action mr-1" data-toggle="tooltip"
                                                     title="Edit"><i class="fas fa-pencil-alt"></i></a>
                                                 <a class="btn btn-danger btn-action" data-toggle="tooltip" title="Delete"
+=======
+                                                <a href="#"
+                                                    class="font-weight-600"><img
+                                                        src="{{ asset('img/avatar/avatar-1.png') }}"
+                                                        alt="avatar"
+                                                        width="30"
+                                                        class="rounded-circle mr-1"> Bagus Dwi Cahya</a>
+                                            </td>
+                                            <td>
+                                                <a class="btn btn-primary btn-action mr-1"
+                                                    data-toggle="tooltip"
+                                                    title="Edit"><i class="fas fa-pencil-alt"></i></a>
+                                                <a class="btn btn-danger btn-action"
+                                                    data-toggle="tooltip"
+                                                    title="Delete"
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                                     data-confirm="Are You Sure?|This action can not be undone. Do you want to continue?"
                                                     data-confirm-yes="alert('Deleted')"><i class="fas fa-trash"></i></a>
                                             </td>
@@ -585,6 +894,7 @@
                                                 </div>
                                             </td>
                                             <td>
+<<<<<<< HEAD
                                                 <a href="#" class="font-weight-600"><img
                                                         src="{{ asset('img/avatar/avatar-1.png') }}" alt="avatar"
                                                         width="30" class="rounded-circle mr-1"> Bagus Dwi Cahya</a>
@@ -593,6 +903,22 @@
                                                 <a class="btn btn-primary btn-action mr-1" data-toggle="tooltip"
                                                     title="Edit"><i class="fas fa-pencil-alt"></i></a>
                                                 <a class="btn btn-danger btn-action" data-toggle="tooltip" title="Delete"
+=======
+                                                <a href="#"
+                                                    class="font-weight-600"><img
+                                                        src="{{ asset('img/avatar/avatar-1.png') }}"
+                                                        alt="avatar"
+                                                        width="30"
+                                                        class="rounded-circle mr-1"> Bagus Dwi Cahya</a>
+                                            </td>
+                                            <td>
+                                                <a class="btn btn-primary btn-action mr-1"
+                                                    data-toggle="tooltip"
+                                                    title="Edit"><i class="fas fa-pencil-alt"></i></a>
+                                                <a class="btn btn-danger btn-action"
+                                                    data-toggle="tooltip"
+                                                    title="Delete"
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                                     data-confirm="Are You Sure?|This action can not be undone. Do you want to continue?"
                                                     data-confirm-yes="alert('Deleted')"><i class="fas fa-trash"></i></a>
                                             </td>
@@ -607,6 +933,7 @@
                                                 </div>
                                             </td>
                                             <td>
+<<<<<<< HEAD
                                                 <a href="#" class="font-weight-600"><img
                                                         src="{{ asset('img/avatar/avatar-1.png') }}" alt="avatar"
                                                         width="30" class="rounded-circle mr-1"> Bagus Dwi Cahya</a>
@@ -615,6 +942,22 @@
                                                 <a class="btn btn-primary btn-action mr-1" data-toggle="tooltip"
                                                     title="Edit"><i class="fas fa-pencil-alt"></i></a>
                                                 <a class="btn btn-danger btn-action" data-toggle="tooltip" title="Delete"
+=======
+                                                <a href="#"
+                                                    class="font-weight-600"><img
+                                                        src="{{ asset('img/avatar/avatar-1.png') }}"
+                                                        alt="avatar"
+                                                        width="30"
+                                                        class="rounded-circle mr-1"> Bagus Dwi Cahya</a>
+                                            </td>
+                                            <td>
+                                                <a class="btn btn-primary btn-action mr-1"
+                                                    data-toggle="tooltip"
+                                                    title="Edit"><i class="fas fa-pencil-alt"></i></a>
+                                                <a class="btn btn-danger btn-action"
+                                                    data-toggle="tooltip"
+                                                    title="Delete"
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                                     data-confirm="Are You Sure?|This action can not be undone. Do you want to continue?"
                                                     data-confirm-yes="alert('Deleted')"><i class="fas fa-trash"></i></a>
                                             </td>
@@ -629,6 +972,7 @@
                                                 </div>
                                             </td>
                                             <td>
+<<<<<<< HEAD
                                                 <a href="#" class="font-weight-600"><img
                                                         src="{{ asset('img/avatar/avatar-1.png') }}" alt="avatar"
                                                         width="30" class="rounded-circle mr-1"> Bagus Dwi Cahya</a>
@@ -637,6 +981,22 @@
                                                 <a class="btn btn-primary btn-action mr-1" data-toggle="tooltip"
                                                     title="Edit"><i class="fas fa-pencil-alt"></i></a>
                                                 <a class="btn btn-danger btn-action" data-toggle="tooltip" title="Delete"
+=======
+                                                <a href="#"
+                                                    class="font-weight-600"><img
+                                                        src="{{ asset('img/avatar/avatar-1.png') }}"
+                                                        alt="avatar"
+                                                        width="30"
+                                                        class="rounded-circle mr-1"> Bagus Dwi Cahya</a>
+                                            </td>
+                                            <td>
+                                                <a class="btn btn-primary btn-action mr-1"
+                                                    data-toggle="tooltip"
+                                                    title="Edit"><i class="fas fa-pencil-alt"></i></a>
+                                                <a class="btn btn-danger btn-action"
+                                                    data-toggle="tooltip"
+                                                    title="Delete"
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                                     data-confirm="Are You Sure?|This action can not be undone. Do you want to continue?"
                                                     data-confirm-yes="alert('Deleted')"><i class="fas fa-trash"></i></a>
                                             </td>
@@ -651,6 +1011,7 @@
                                                 </div>
                                             </td>
                                             <td>
+<<<<<<< HEAD
                                                 <a href="#" class="font-weight-600"><img
                                                         src="{{ asset('img/avatar/avatar-1.png') }}" alt="avatar"
                                                         width="30" class="rounded-circle mr-1"> Bagus Dwi Cahya</a>
@@ -659,6 +1020,22 @@
                                                 <a class="btn btn-primary btn-action mr-1" data-toggle="tooltip"
                                                     title="Edit"><i class="fas fa-pencil-alt"></i></a>
                                                 <a class="btn btn-danger btn-action" data-toggle="tooltip" title="Delete"
+=======
+                                                <a href="#"
+                                                    class="font-weight-600"><img
+                                                        src="{{ asset('img/avatar/avatar-1.png') }}"
+                                                        alt="avatar"
+                                                        width="30"
+                                                        class="rounded-circle mr-1"> Bagus Dwi Cahya</a>
+                                            </td>
+                                            <td>
+                                                <a class="btn btn-primary btn-action mr-1"
+                                                    data-toggle="tooltip"
+                                                    title="Edit"><i class="fas fa-pencil-alt"></i></a>
+                                                <a class="btn btn-danger btn-action"
+                                                    data-toggle="tooltip"
+                                                    title="Delete"
+>>>>>>> 708d46586e667522d7d2cbd70e3115e48a60e994
                                                     data-confirm="Are You Sure?|This action can not be undone. Do you want to continue?"
                                                     data-confirm-yes="alert('Deleted')"><i class="fas fa-trash"></i></a>
                                             </td>
